@@ -1,2240 +1,1184 @@
 [
     {
         "title": "4 Kurd",
-        "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg"
+        "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+        "cat": "Music",
+        "url": "https://4kuhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "4U TV (720p)",
-        "url": "https://hls.4utv.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/PexhKwp.png"
+        "logo": "https://i.imgur.com/PexhKwp.png",
+        "cat": "Entertainment",
+        "url": "https://hls.4utv.live/hls/stream.m3u8"
     },
     {
         "title": "247 Box TV",
-        "url": "https://hls.247box.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/t5AUthL.png"
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "cat": "Entertainment",
+        "url": "https://hls.247box.live/hls/stream.m3u8"
     },
     {
         "title": "AFN TV",
-        "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/LctanF8.png"
+        "logo": "https://i.imgur.com/LctanF8.png",
+        "cat": "Music",
+        "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
     },
     {
         "title": "Afra Film",
-        "url": "https://afrafhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Movies",
+        "url": "https://afrafhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Afra Series",
-        "url": "https://afrashls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Series",
+        "url": "https://afrashls.wns.live/hls/stream.m3u8"
+    },
+    {
+        "title": "Al Alam (360p)",
+        "logo": "https://i.imgur.com/Zdi31dy.png",
+        "cat": "News",
+        "url": "https://live2.alalam.ir/alalam.m3u8"
     },
     {
         "title": "Al Wilayah (720p)",
-        "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/OI1HQv5.png"
+        "logo": "https://i.imgur.com/OI1HQv5.png",
+        "cat": "Religious",
+        "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
     },
     {
         "title": "Arax TV",
-        "url": "https://araxhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Undefined",
+        "url": "https://araxhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Arko TV",
-        "url": "https://arkhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png"
+        "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png",
+        "cat": "Undefined",
+        "url": "https://arkhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Arvan TV",
-        "url": "https://arvhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Undefined",
+        "url": "https://arvhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Asil TV",
-        "url": "https://live.asil.tv/asiltv/index.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/gROQqFD.png"
+        "logo": "https://i.imgur.com/gROQqFD.png",
+        "cat": "Undefined",
+        "url": "https://live.asil.tv/asiltv/index.m3u8"
     },
     {
         "title": "AVA Series",
-        "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/8AfAfZE.png"
+        "logo": "https://i.imgur.com/8AfAfZE.png",
+        "cat": "Series",
+        "url": "https://avaserieshls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Avang TV (1080p)",
-        "url": "https://hls.avang.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/3I1n7fO.png"
+        "logo": "https://i.imgur.com/3I1n7fO.png",
+        "cat": "Music",
+        "url": "https://hls.avang.live/hls/stream.m3u8"
     },
     {
         "title": "Bravo Farsi TV (360p)",
-        "url": "https://bravoohls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg"
+        "logo": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+        "cat": "Movies",
+        "url": "https://bravoohls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Cafe Film",
-        "url": "https://cafefhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Movies",
+        "url": "https://cafefhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Cafe Trade TV",
-        "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png"
+        "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+        "cat": "Business",
+        "url": "https://cafetradehls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Classic TV",
-        "url": "https://clshls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Classic",
+        "url": "https://clshls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Datis TV",
-        "url": "https://dathls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Undefined",
+        "url": "https://dathls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Erfan Halgheh TV (720p)",
-        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png"
+        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "cat": "Religious",
+        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8"
     },
     {
         "title": "FX TV 1",
-        "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/ff/fx-1.png"
+        "logo": "https://www.lyngsat.com/logo/tv/ff/fx-1.png",
+        "cat": "Entertainment",
+        "url": "https://fxtvhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "FX TV 2",
-        "url": "https://toonixhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",
+        "cat": "Entertainment",
+        "url": "https://toonixhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "GEM Pixel",
-        "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png"
+        "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+        "cat": "Movies",
+        "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
     },
     {
         "title": "Gold Star",
-        "url": "https://moviethls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Movies",
+        "url": "https://moviethls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Grand Cinema",
-        "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png"
+        "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+        "cat": "Movies",
+        "url": "https://gcinemahls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "High Vision (1080p) [Not 24/7]",
-        "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/zhCgoru.png"
+        "logo": "https://i.imgur.com/zhCgoru.png",
+        "cat": "Music",
+        "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
     },
     {
         "title": "ICC Plus (1080p)",
-        "url": "https://icchls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png"
+        "logo": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
+        "cat": "Movies",
+        "url": "https://icchls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "icnet 2",
-        "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/Ke5xn4E.png"
+        "logo": "https://i.imgur.com/Ke5xn4E.png",
+        "cat": "Religious",
+        "url": "https://icnet2hls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "icnet 3",
-        "url": "https://ic3hls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Religious",
+        "url": "https://ic3hls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "iFilm 2",
-        "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
+        "cat": "Movies",
+        "url": "https://live.presstv.ir/hls/ifilm2.m3u8"
     },
     {
         "title": "iFilm Arabic",
-        "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "cat": "Movies",
+        "url": "https://live.presstv.ir/hls/ifilmar.m3u8"
     },
     {
         "title": "iFilm English",
-        "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "cat": "Movies",
+        "url": "https://live.presstv.ir/hls/ifilmen.m3u8"
     },
     {
         "title": "iFilm Persian",
-        "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "cat": "Movies",
+        "url": "https://live.presstv.ir/hls/ifilmfa.m3u8"
     },
     {
         "title": "Iran International (720p)",
-        "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/55RpaF3.png"
+        "logo": "https://i.imgur.com/55RpaF3.png",
+        "cat": "News",
+        "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8"
     },
     {
         "title": "Iran Jewish TV",
-        "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.ibb.co/JWXs7csN/en.png"
+        "logo": "https://i.ibb.co/JWXs7csN/en.png",
+        "cat": "Religious",
+        "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
     },
     {
         "title": "Iran Press",
-        "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg",
+        "cat": "News",
+        "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
     },
     {
         "title": "IraneFarda TV (720p)",
-        "url": "https://hls.iranfarda.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/ixgcgZY.png"
+        "logo": "https://i.imgur.com/ixgcgZY.png",
+        "cat": "News",
+        "url": "https://hls.iranfarda.live/hls/stream.m3u8"
     },
     {
         "title": "Kanal Jadid",
-        "url": "https://kjhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/7oGGgfD.png"
+        "logo": "https://i.imgur.com/7oGGgfD.png",
+        "cat": "General",
+        "url": "https://kjhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Maah TV (720p)",
-        "url": "https://hls.maahtv.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/FkyueH6.png"
+        "logo": "https://i.imgur.com/FkyueH6.png",
+        "cat": "Movies",
+        "url": "https://hls.maahtv.live/hls/stream.m3u8"
     },
     {
         "title": "Meta Film TV",
-        "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png"
+        "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+        "cat": "Movies",
+        "url": "https://metafilmhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Mihan TV",
-        "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/XEMsM7w.png"
+        "logo": "https://i.imgur.com/XEMsM7w.png",
+        "cat": "News",
+        "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8"
     },
     {
         "title": "Mohabat TV (540p)",
-        "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/Ig0SPev.png"
+        "logo": "https://i.imgur.com/Ig0SPev.png",
+        "cat": "Religious",
+        "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
     },
     {
         "title": "Omide Iran",
-        "url": "https://oitnhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/CeMf68L.png"
+        "logo": "https://i.imgur.com/CeMf68L.png",
+        "cat": "Entertainment",
+        "url": "https://oitnhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "OXIR TV",
-        "url": "https://hls.oxir.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/MGMhUDx.png"
+        "logo": "https://i.imgur.com/MGMhUDx.png",
+        "cat": "Entertainment",
+        "url": "https://hls.oxir.live/hls/stream.m3u8"
     },
     {
         "title": "Pars TV",
-        "url": "https://parshls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/RQ5DzEE.png"
+        "logo": "https://i.imgur.com/RQ5DzEE.png",
+        "cat": "General",
+        "url": "https://parshls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Payam Javan TV (720p) [Not 24/7]",
-        "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/GYfsHh9.png"
+        "logo": "https://i.imgur.com/GYfsHh9.png",
+        "cat": "Education",
+        "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
     },
     {
         "title": "Payvand TV [Not 24/7]",
-        "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/o2Ww77N.png"
+        "logo": "https://i.imgur.com/o2Ww77N.png",
+        "cat": "Religious",
+        "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
     },
     {
         "title": "PBC Tapesh TV (720p)",
-        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/50JzsmH.png"
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "cat": "General",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
     },
     {
         "title": "Persiana Cinema",
-        "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/hgIro9r.png"
+        "logo": "https://i.imgur.com/hgIro9r.png",
+        "cat": "Movies",
+        "url": "https://cinehls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Comedy",
-        "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/DBZ3Pi5.png"
+        "logo": "https://i.imgur.com/DBZ3Pi5.png",
+        "cat": "Comedy",
+        "url": "https://comedyhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Docs",
-        "url": "https://scihls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",
+        "cat": "Documentary",
+        "url": "https://scihls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Family",
-        "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/lMZsuWi.png"
+        "logo": "https://i.imgur.com/lMZsuWi.png",
+        "cat": "Movies",
+        "url": "https://familyhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Fight",
-        "url": "https://fighthls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png",
+        "cat": "Sports",
+        "url": "https://fighthls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Folk",
-        "url": "https://sonhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
+        "cat": "Music",
+        "url": "https://sonhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Iranian",
-        "url": "https://irhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/vqrrpBi.png"
+        "logo": "https://i.imgur.com/vqrrpBi.png",
+        "cat": "Movies",
+        "url": "https://irhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Junior",
-        "url": "https://junhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/zeKHZYG.png"
+        "logo": "https://i.imgur.com/zeKHZYG.png",
+        "cat": "Kids",
+        "url": "https://junhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Korea",
-        "url": "https://korhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/si2ZnIA.png"
+        "logo": "https://i.imgur.com/si2ZnIA.png",
+        "cat": "Movies",
+        "url": "https://korhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Medical",
-        "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
+        "cat": "Education",
+        "url": "https://phd2hls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Music",
-        "url": "https://musichls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Music",
+        "url": "https://musichls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Nostalgia",
-        "url": "https://noshls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/SWO9CKA.png"
+        "logo": "https://i.imgur.com/SWO9CKA.png",
+        "cat": "Classic;Music",
+        "url": "https://noshls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Plus",
-        "url": "https://euhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/0xttibX.png"
+        "logo": "https://i.imgur.com/0xttibX.png",
+        "cat": "Movies",
+        "url": "https://euhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Series",
-        "url": "https://onehls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
+        "cat": "Series",
+        "url": "https://onehls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Travel",
-        "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
+        "cat": "Documentary",
+        "url": "https://ptravelhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Turkiye",
-        "url": "https://turkhls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
+        "cat": "Entertainment",
+        "url": "https://turkhls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Persiana Vibe",
-        "url": "https://raphls.persiana.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png"
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
+        "cat": "Music",
+        "url": "https://raphls.persiana.live/hls/stream.m3u8"
     },
     {
         "title": "Press TV French (1080p)",
-        "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
-        "cat": "Iran",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
+        "cat": "News",
+        "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
     },
     {
         "title": "PRO Sport International",
-        "url": "https://proshls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": ""
+        "logo": "",
+        "cat": "Sports",
+        "url": "https://proshls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "Radio Javan TV (1080p)",
-        "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/a1zuW2C.png"
+        "logo": "https://i.imgur.com/a1zuW2C.png",
+        "cat": "Music",
+        "url": "https://rjtvhls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "SL 1",
-        "url": "https://slonehls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/n9cuM2W.jpg"
+        "logo": "https://i.imgur.com/n9cuM2W.jpg",
+        "cat": "Movies",
+        "url": "https://slonehls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "SL 2",
-        "url": "https://sltwohls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/BVuUx5R.jpg"
+        "logo": "https://i.imgur.com/BVuUx5R.jpg",
+        "cat": "Movies",
+        "url": "https://sltwohls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "T2 TV",
-        "url": "https://t2hls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/Wu8MBb7.png"
+        "logo": "https://i.imgur.com/Wu8MBb7.png",
+        "cat": "Music",
+        "url": "https://t2hls.wns.live/hls/stream.m3u8"
     },
     {
         "title": "TBN Nejat TV",
-        "url": "https://hls.nejat.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/e4WffQA.png"
+        "logo": "https://i.imgur.com/e4WffQA.png",
+        "cat": "Undefined",
+        "url": "https://hls.nejat.live/hls/stream.m3u8"
     },
     {
         "title": "TM TV (720p)",
-        "url": "https://hls.tmtv.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png"
+        "logo": "https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",
+        "cat": "General",
+        "url": "https://hls.tmtv.live/hls/stream.m3u8"
     },
     {
         "title": "TV ITN",
-        "url": "https://itnhls.wns.live/hls/stream.m3u8",
-        "cat": "Iran",
-        "logo": "https://i.imgur.com/U4sKHWy.png"
+        "logo": "https://i.imgur.com/U4sKHWy.png",
+        "cat": "Entertainment",
+        "url": "https://itnhls.wns.live/hls/stream.m3u8"
     },
     {
-        "title": "TRT HABER",
-        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Bt6frts/trthaber.png"
+        "title": "4U TV (720p)",
+        "logo": "https://i.imgur.com/PexhKwp.png",
+        "cat": "Entertainment",
+        "url": "https://hls.4utv.live/hls/stream.m3u8"
     },
     {
-        "title": "S\u00d6ZC\u00dc TV",
-        "url": "https://helga.iptv2022.com/szc_tv/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png"
+        "title": "360 TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/agn47sQ.png",
+        "cat": "News",
+        "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
     },
     {
-        "title": "S\u00d6ZC\u00dc TV",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png"
+        "title": "Akit TV (720p)",
+        "logo": "https://i.imgur.com/oGto929.png",
+        "cat": "News",
+        "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
     },
     {
-        "title": "MELTEM TV",
-        "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
+        "title": "Aksu TV (720p)",
+        "logo": "https://i.imgur.com/mgDCKiy.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
     },
     {
-        "title": "MELTEM TV",
-        "url": "http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
+        "title": "Al-Zahra TV Turkic (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/QEHKGnG.png",
+        "cat": "Religious",
+        "url": "https://live.al-zahratv.com/live/playlist.m3u8"
     },
     {
-        "title": "EKOL TV",
-        "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Ln92Dj2/Ekoltv.png"
+        "title": "Alanya Posta TV (1080p)",
+        "logo": "https://i.imgur.com/a3w9eFe.png",
+        "cat": "General",
+        "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
     },
     {
-        "title": "TV 100",
-        "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/bLpTdYZ/tv100.png"
+        "title": "Almahriah TV (576p)",
+        "logo": "https://i.imgur.com/GgEeTNr.png",
+        "cat": "News",
+        "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
     },
     {
-        "title": "HABER GLOBAL",
-        "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/k58p7P2/hglobal.png"
+        "title": "Altas TV (1080p)",
+        "logo": "https://i.imgur.com/XaJ7fp6.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
     },
     {
-        "title": "MK TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": " https://i.ibb.co/wrMn5rgQ/mktv.png"
+        "title": "Anadolu Net TV (1080p)",
+        "logo": "https://www.anadolunettv.com/d/r/logo.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
     },
     {
-        "title": "HALK TV",
-        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BtYMK4q/halk21a.png"
+        "title": "ARAS TV (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/JsDCyWG.png",
+        "cat": "General",
+        "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8"
     },
     {
-        "title": "TELE 1",
-        "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/4Mhmggc/tele1.png"
+        "title": "ATV (360p)",
+        "logo": "https://i.imgur.com/HyVUwFC.png",
+        "cat": "General",
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
     },
     {
-        "title": "NTV",
-        "url": "http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9c7MvWX/ntv.png"
+        "title": "Bloomberg HT (720p)",
+        "logo": "https://i.imgur.com/bmkXfIE.png",
+        "cat": "Business",
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
     },
     {
-        "title": "L\u0130DER HABER",
-        "url": "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0j6pWsPt/Liderhaber.png"
+        "title": "BRTV (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/U3qlEAp.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
     },
     {
-        "title": "ULUSAL KANAL",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tXdf2YF/ulusal22.png"
+        "title": "Bursa AS TV (900p)",
+        "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
+        "cat": "News",
+        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
     },
     {
-        "title": "TV 5",
-        "url": "https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/6m9Pb3t/tv5tr1.png"
+        "title": "Can TV (720p)",
+        "logo": "https://i.imgur.com/oIMtuwB.png",
+        "cat": "News",
+        "url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
     },
     {
-        "title": "HABER T\u00dcRK",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png"
+        "title": "Cay TV (720p)",
+        "logo": "https://i.imgur.com/ndupxwu.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
     },
     {
-        "title": "BLOOMBERG HT",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/HXKrJRC/blght22.png"
+        "title": "CGTN Documentary",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",
+        "cat": "Documentary",
+        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
     },
     {
-        "title": "CNN T\u00dcRK",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/JqWCczW/cnnturk1.png"
+        "title": "CNBC-e",
+        "logo": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3",
+        "cat": "Business;Series",
+        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
     },
     {
-        "title": "KRT",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/jZShqBM/Krt24v2.png"
+        "title": "Deniz Postas\u0131 TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Mm8hdfx.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
     },
     {
-        "title": "GZT",
-        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9s9YKYT/gzt.png"
+        "title": "DHA (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/VZhag2x.png",
+        "cat": "News",
+        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
     },
     {
-        "title": "TGRT HABER",
-        "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/vJJzR8G/tgrthab22.png"
+        "title": "D\u0130M TV (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/X4QFDhk.png",
+        "cat": "News",
+        "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
     },
     {
-        "title": "TV NET",
-        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1RWhvy4/tvnet.png"
+        "title": "Diyanet TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png",
+        "cat": "Religious",
+        "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
     },
     {
-        "title": "24",
-        "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/PhwYjQ7/24tv.png"
+        "title": "Diyar TV (720p)",
+        "logo": "https://i.imgur.com/qWkHjRA.png",
+        "cat": "Religious",
+        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
     },
     {
-        "title": "FLASH HABER",
-        "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F5FcvbZ/flash4ok.png"
+        "title": "Dost TV (576p)",
+        "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+        "cat": "Religious",
+        "url": "https://dost.stream.emsal.im/tv/live.m3u8"
     },
     {
-        "title": "\u00dcLKE",
-        "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/ZXts607/ulketv.png"
+        "title": "Dream T\u00fcrk (720p)",
+        "logo": "https://i.imgur.com/vJ8VaZi.png",
+        "cat": "Music",
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
     },
     {
-        "title": "AK\u0130T TV",
-        "url": "http://akittv-live.ercdn.net/akittv/akittv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B4XX5Vx/akittv.png"
+        "title": "Elsharq TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/8vmfZb5.png",
+        "cat": "General",
+        "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
     },
     {
-        "title": "YEN\u0130 \u00c7A\u011e TV",
-        "url": "https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/fGnRLnLM/yenicag.png"
+        "title": "Er TV (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/VDGEPrD.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
     },
     {
-        "title": "T\u00dcRK HABER",
-        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/j9Pmc2qN/thhaber.jpg"
+        "title": "Erzurum Web TV (720p)",
+        "logo": "https://i.imgur.com/HF7N4Li.png",
+        "cat": "General",
+        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
     },
     {
-        "title": "F\u0130NANS T\u00dcRK",
-        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/GQdBjZfW/finansturk.png"
+        "title": "ES TV (720p)",
+        "logo": "https://i.imgur.com/epAEBrp.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
     },
     {
-        "title": "CNBC-E",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/kcpSwmK/cnbce.png"
+        "title": "ETV Kayseri (720p)",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
     },
     {
-        "title": "TBMM TV",
-        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BN9tk1q/tbmm22.png"
+        "title": "ETV Manisa (1080p) [Not 24/7]",
+        "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
+        "cat": "Undefined",
+        "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
     },
     {
-        "title": "DHA (feed 2)",
-        "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/K6BKFqY/dha.png"
+        "title": "Euro D (1080p) [Geo-Blocked]",
+        "logo": "https://i.imgur.com/x9kHsXo.png",
+        "cat": "General",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8"
     },
     {
-        "title": "TRT HABER",
-        "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Bt6frts/trthaber.png"
+        "title": "FB TV",
+        "logo": "https://i.imgur.com/qBVqtYd.png",
+        "cat": "Sports",
+        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
     },
     {
-        "title": "S\u00d6ZC\u00dc TV (backup)",
-        "url": "https://cdn.tecostream.xyz/Sozcu_Tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png"
+        "title": "Finans Turk TV (720p)",
+        "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+        "cat": "News",
+        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
     },
     {
-        "title": "S\u00d6ZC\u00dc TV (backup)",
-        "url": "https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B40rjP3/szc1.png"
+        "title": "Fortuna TV",
+        "logo": "https://i.imgur.com/ZbUSlOC.png",
+        "cat": "Lifestyle",
+        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
     },
     {
-        "title": "MELTEM TV (backup)",
-        "url": "http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
+        "title": "Guneydogu TV (720p)",
+        "logo": "https://i.imgur.com/JT5pp3Y.png",
+        "cat": "News",
+        "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
     },
     {
-        "title": "HABER T\u00dcRK (backup)",
-        "url": "https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png"
+        "title": "GZT (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png",
+        "cat": "Documentary;Series",
+        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
     },
     {
-        "title": "HABER T\u00dcRK (backup)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wdwm0fn/haberturk.png"
+        "title": "Haber61 TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/2a2XUKl.png",
+        "cat": "News",
+        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
     },
     {
-        "title": "HABER GLOBAL (backup)",
-        "url": "https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/k58p7P2/hglobal.png"
+        "title": "Halk TV (1080p)",
+        "logo": "https://i.imgur.com/xM0HA30.png",
+        "cat": "News",
+        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
     },
     {
-        "title": "TV 100 (backup)",
-        "url": "https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/bLpTdYZ/tv100.png"
+        "title": "HTSpor TV (1080p)",
+        "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+        "cat": "Sports",
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
     },
     {
-        "title": "TV 100 (backup)",
-        "url": "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/bLpTdYZ/tv100.png"
+        "title": "Hunat TV (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/NrxHGnb.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
     },
     {
-        "title": "ULUSAL KANAL (backup)",
-        "url": "https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tXdf2YF/ulusal22.png"
+        "title": "Kanal 3 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/eXErSv0.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
     },
     {
-        "title": "NTV (backup)",
-        "url": "http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9c7MvWX/ntv.png"
+        "title": "Kanal 7 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/0gq9xOm.png",
+        "cat": "Entertainment",
+        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     },
     {
-        "title": "NTV (backup)",
-        "url": "http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9c7MvWX/ntv.png"
+        "title": "Kanal 7 Avrupa (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/wlfyj5l.png",
+        "cat": "Entertainment",
+        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
     },
     {
-        "title": "NTV (backup)",
-        "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9c7MvWX/ntv.png"
+        "title": "Kanal 12 (720p)",
+        "logo": "https://i.imgur.com/51xCkXG.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8"
     },
     {
-        "title": "FLASH HABER (backup)",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F5FcvbZ/flash4ok.png"
+        "title": "Kanal 15 (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/wb1Cdc9.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
     },
     {
-        "title": "EKOL TV (backup)",
-        "url": "https://helga.iptv2022.com/sh/ekol_tv/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Ln92Dj2/Ekoltv.png"
+        "title": "Kanal 23 (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/3br8RCq.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8"
     },
     {
-        "title": "BENG\u00dc T\u00dcRK (backup)",
-        "url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0MHPk8y/benguturk.png"
+        "title": "Kanal 26 (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Mr7XPii.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
     },
     {
-        "title": "HALK TV (backup)",
-        "url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BtYMK4q/halk21a.png"
+        "title": "Kanal 32 (720p) [Not 24/7]",
+        "logo": "https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
     },
     {
-        "title": "24 (backup)",
-        "url": "https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/PhwYjQ7/24tv.png"
+        "title": "Kanal D (1080p)",
+        "logo": "https://i.imgur.com/9o1atM6.png",
+        "cat": "General",
+        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
     },
     {
-        "title": "BLOOMBERG HT (backup)",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/HXKrJRC/blght22.png"
+        "title": "Kanal Firat (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/3o8Rokp.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
     },
     {
-        "title": "BLOOMBERG HT (backup)",
-        "url": "https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/HXKrJRC/blght22.png"
+        "title": "Kanal Hayat (1080p)",
+        "logo": "https://i.imgur.com/eikZj19.png",
+        "cat": "General",
+        "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
     },
     {
-        "title": "CNBC-E (backup)",
-        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/kcpSwmK/cnbce.png"
+        "title": "Kanal V (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/7RNjTno.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
     },
     {
-        "title": "TGRT HABER (backup)",
-        "url": "https://canli.tgrthaber.com/tgrt.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/vJJzR8G/tgrthab22.png"
+        "title": "Kanal Z (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/Kr8960d.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
     },
     {
-        "title": "TGRT HABER (backup)",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/vJJzR8G/tgrthab22.png"
+        "title": "Kent T\u00fcrk TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/FQKPjsm.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
     },
     {
-        "title": "TRT 1",
-        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Konya Olay TV (720p)",
+        "logo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
     },
     {
-        "title": "TRT 1",
-        "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "KRAL Pop TV (720p)",
+        "logo": "https://i.imgur.com/ch365lh.png",
+        "cat": "Music",
+        "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
     },
     {
-        "title": "KANAL D",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/s9mVqWH/kanald.png"
+        "title": "Lalegul TV (1080p)",
+        "logo": "https://i.imgur.com/wwCysFs.png",
+        "cat": "Religious",
+        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8"
     },
     {
-        "title": "KANAL D",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/s9mVqWH/kanald.png"
+        "title": "Life TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/lWeJxm0.png",
+        "cat": "News",
+        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
     },
     {
-        "title": "STAR",
-        "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/DYyDzGV/star22tv.png"
+        "title": "Line TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/6GNp7f8.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
     },
     {
-        "title": "SHOW",
-        "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BrGNZJ4/showtv.png"
+        "title": "MaviKaradeniz (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/wyWappU.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
     },
     {
-        "title": "SHOW",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BrGNZJ4/showtv.png"
+        "title": "Med Muzik (1080p)",
+        "logo": "https://i.imgur.com/gtUFmCD.png",
+        "cat": "Music",
+        "url": "http://54.36.110.140/live3/live3.m3u8"
     },
     {
-        "title": "TV8",
-        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tXKXNDz/tv8.png"
+        "title": "Mekameleen TV (1080p)",
+        "logo": "https://i.imgur.com/q7iVchl.png",
+        "cat": "News",
+        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
     },
     {
-        "title": "TV8",
-        "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tXKXNDz/tv8.png"
+        "title": "Meltem TV (1080p)",
+        "logo": "https://i.imgur.com/C3m6w5S.png",
+        "cat": "General",
+        "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
     },
     {
-        "title": "ATV",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Mercan TV (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/3CWV8bS.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
     },
     {
-        "title": "KANAL 7",
-        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1s3fHfm/k7tr1.png"
+        "title": "MT\u00fcrk TV (1080p)",
+        "logo": "https://i.imgur.com/xj1gvrq.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
     },
     {
-        "title": "KANAL 7",
-        "url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1s3fHfm/k7tr1.png"
+        "title": "NOW TV (720p)",
+        "logo": "https://i.imgur.com/5EYjWK7.png",
+        "cat": "Entertainment",
+        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
     },
     {
-        "title": "BEYAZ TV",
-        "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0tc3PYz/beyaz22b.png"
+        "title": "Number 1 Ask (720p)",
+        "logo": "https://i.imgur.com/slwbux7.png",
+        "cat": "Music",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Number 1 Damar (720p)",
+        "logo": "https://i.imgur.com/rYtbAGZ.png",
+        "cat": "Music",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Number 1 Dance (720p)",
+        "logo": "https://i.imgur.com/ZM4PSyq.png",
+        "cat": "Music",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Number 1 TV (720p)",
+        "logo": "https://i.imgur.com/02cDIBi.png",
+        "cat": "Music",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "http://116.202.238.88/TRT1_TR/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Olay T\u00fcrk TV Kayseri (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/e9ca6gc.png",
+        "cat": "News",
+        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "https://helga.iptv2022.com/sh/trt_1/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "On4 TV (1080p)",
+        "logo": "https://i.imgur.com/qGRa1KI.png",
+        "cat": "General",
+        "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Persiana Turkiye",
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
+        "cat": "Entertainment",
+        "url": "https://turkhls.persiana.live/hls/stream.m3u8"
     },
     {
-        "title": "TRT 1 (backup)",
-        "url": "http://trn03.tulix.tv/gt-trt1-tveu/tracks-v1a1/mono.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png"
+        "title": "Power Dance (1080p)",
+        "logo": "https://i.imgur.com/QpPteBO.png",
+        "cat": "Music",
+        "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
     },
     {
-        "title": "KANAL D (backup)",
-        "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/s9mVqWH/kanald.png"
+        "title": "Power Love (1080p)",
+        "logo": "https://i.imgur.com/0RzUswR.png",
+        "cat": "Music",
+        "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
     },
     {
-        "title": "KANAL D (backup)",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/s9mVqWH/kanald.png"
+        "title": "Power Turk (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/9OPoXQG.png",
+        "cat": "Undefined",
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
     },
     {
-        "title": "STAR (backup)",
-        "url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/DYyDzGV/star22tv.png"
+        "title": "Power T\u00fcrk Akustik (1080p)",
+        "logo": "https://i.imgur.com/driabBO.png",
+        "cat": "Music",
+        "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
     },
     {
-        "title": "STAR (backup)",
-        "url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/DYyDzGV/star22tv.png"
+        "title": "Power T\u00fcrk Slow (1080p)",
+        "logo": "https://i.imgur.com/tQSoQXW.png",
+        "cat": "Music",
+        "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
     },
     {
-        "title": "SHOW (backup)",
-        "url": "http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BrGNZJ4/showtv.png"
+        "title": "Power T\u00fcrk Taptaze (1080p)",
+        "logo": "https://i.imgur.com/a5nW3HU.png",
+        "cat": "Music",
+        "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
     },
     {
-        "title": "NOW (backup)",
-        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
+        "title": "Power TV (1080p)",
+        "logo": "https://i.imgur.com/XSL1gd7.png",
+        "cat": "Undefined",
+        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Qaf TV (1080p)",
+        "logo": "https://i.imgur.com/hrk7Uce.png",
+        "cat": "Undefined",
+        "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Sat7 T\u00fcrk (1080p)",
+        "logo": "https://i.imgur.com/cKQIK4i.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Satran\u00e7 TV (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/TXDV1ty.png",
+        "cat": "Undefined",
+        "url": "http://139.162.182.79/live/test/index.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=gIdaTOTzZuw&m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Semerkand TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/UVGGrQd.png",
+        "cat": "Undefined",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Sports TV (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/tGTVcVe.jpg",
+        "cat": "Sports",
+        "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Sun RTV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/64tph9N.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
     },
     {
-        "title": "ATV (backup)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Tarih TV",
+        "logo": "https://i.imgur.com/HbIGZUt.png",
+        "cat": "Undefined",
+        "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8"
     },
     {
-        "title": "ATV [youtube-src]",
-        "url": "https://youtu.be/1KXZDgP9W5E",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "TBMM TV (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",
+        "cat": "Undefined",
+        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
     },
     {
-        "title": "ATV [tkn-blocked]",
-        "url": "https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n1SCYqN/atv.png"
+        "title": "Tele 1 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
+        "cat": "Undefined",
+        "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
     },
     {
-        "title": "TV8 (backup)",
-        "url": "http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tXKXNDz/tv8.png"
+        "title": "Tempo TV (720p)",
+        "logo": "https://i.imgur.com/tZpx32y.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
     },
     {
-        "title": "TRT BELGESEL",
-        "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/N1h8m96/trtbelgesel.png"
+        "title": "TGRT Haber (720p)",
+        "logo": "https://i.imgur.com/PrxwKDw.png",
+        "cat": "News",
+        "url": "https://canli.tgrthaber.com/tgrt.m3u8"
     },
     {
-        "title": "TRT 2",
-        "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/TB5N8cN/trt2.png"
+        "title": "Tivi 6 (720p)",
+        "logo": "https://i.imgur.com/Mbi0jbz.png",
+        "cat": "General",
+        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
     },
     {
-        "title": "T\u0130V\u0130 6",
-        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/sRNHKjS/tivi622.png"
+        "title": "TJK TV (1080p)",
+        "logo": "https://i.imgur.com/3zHdkYG.png",
+        "cat": "Sports",
+        "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
     },
     {
-        "title": "DMAX",
-        "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/QQQR6VK/dmax.png"
+        "title": "TMB TV",
+        "logo": "https://i.imgur.com/28AyWHe.png",
+        "cat": "Undefined",
+        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8"
     },
     {
-        "title": "TLC TR",
-        "url": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Z1vHy41/tlc.png"
+        "title": "Ton TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/f0Soeob.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
     },
     {
-        "title": "360",
-        "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/FVnG3Zr/360tv.png"
+        "title": "Trabzon Buyuksehir Belediyesi TV (1080p)",
+        "logo": "https://tbbweb.tv/img/logo.png",
+        "cat": "Undefined",
+        "url": "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8"
     },
     {
-        "title": "TV 4",
-        "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/pXncfpb/tv422.png"
+        "title": "TRT 1 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",
+        "cat": "Undefined",
+        "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
     },
     {
-        "title": "T\u00dcRK\u0130YE KL\u0130N\u0130KLER\u0130 TV",
-        "url": "http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/VWRBg1M/trklinik.png"
+        "title": "TRT 2 (720p)",
+        "logo": "https://i.imgur.com/iOCQdyD.png",
+        "cat": "Undefined",
+        "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "CGTN BELGESEL",
-        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/s9gLmqv/cgtnch.png"
+        "title": "TRT 3",
+        "logo": "https://i.imgur.com/JrWFwBd.png",
+        "cat": "Undefined",
+        "url": "https://tv-trt3.live.trt.com.tr/master.m3u8"
     },
     {
-        "title": "SA\u011eLIK CHANNEL",
-        "url": "https://live.euromediacenter.com/saglikchannel/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/TTwc1rR/saglikch.png"
+        "title": "TRT Avaz (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png",
+        "cat": "Undefined",
+        "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "WOMAN KADIN TV",
-        "url": "https://embedlp.b-cdn.net/womantv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/DKHDfbr/wmtv.png"
+        "title": "TRT \u00c7ocuk (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "cat": "Kids",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "MOR TV",
-        "url": "https://live.euromediacenter.com/tvmor/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/qRsfyb2/tvmor.png"
+        "title": "TRT Diyanet \u00c7ocuk (720p)",
+        "logo": "https://i.imgur.com/8PmXz9t.png",
+        "cat": "Kids",
+        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "ONS TV",
-        "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/PZW37ch0/onstv.jpg"
+        "title": "TRT EBA Ilkokul (720p)",
+        "logo": "https://i.imgur.com/CRBfZi4.png",
+        "cat": "Education",
+        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "ONS TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/PZW37ch0/onstv.jpg"
+        "title": "TRT EBA Lise (720p)",
+        "logo": "https://i.imgur.com/vj2L2L2.png",
+        "cat": "Education",
+        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "TEVE 2",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1Z22dCY/teve2.png"
+        "title": "TRT EBA Ortaokul (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png",
+        "cat": "Education",
+        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "TV8 BU\u00c7UK",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/dgj3MTh/tv85.png"
+        "title": "TRT Haber (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+        "cat": "News",
+        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "SHOW MAX",
-        "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/kxjKk89/showmax.png"
+        "title": "TRT Kurd\u00ee (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png",
+        "cat": "Undefined",
+        "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "A2 (backup)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/2qrg9QF/a2022.png"
+        "title": "TRT M\u00fczik (720p)",
+        "logo": "https://i.imgur.com/JgUzRH8.png",
+        "cat": "Music",
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "TEVE 2 (backup)",
-        "url": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1Z22dCY/teve2.png"
+        "title": "TRT T\u00fcrk (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",
+        "cat": "Undefined",
+        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     },
     {
-        "title": "TEVE 2 (backup)",
-        "url": "http://demiroren.daioncdn.net/teve2/teve2.m3u8?app=web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1Z22dCY/teve2.png"
+        "title": "T\u00fcrkHaber (720p)",
+        "logo": "https://i.imgur.com/2AcRKdL.png",
+        "cat": "News",
+        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
     },
     {
-        "title": "TV8 BU\u00c7UK (backup)",
-        "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/dgj3MTh/tv85.png"
+        "title": "TV 1 (720p)",
+        "logo": "https://i.imgur.com/8CtrYVb.png",
+        "cat": "Undefined",
+        "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
     },
     {
-        "title": "TV8 BU\u00c7UK (backup)",
-        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/dgj3MTh/tv85.png"
+        "title": "TV4 (720p)",
+        "logo": "https://i.imgur.com/UpsQsbd.png",
+        "cat": "Undefined",
+        "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
     },
     {
-        "title": "DMAX (backup)",
-        "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/QQQR6VK/dmax.png"
+        "title": "TV 8 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",
+        "cat": "General",
+        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
     },
     {
-        "title": "TLC TR (backup)",
-        "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Z1vHy41/tlc.png"
+        "title": "TV 100 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png",
+        "cat": "Undefined",
+        "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
     },
     {
-        "title": "TRT \u00c7OCUK",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/YjkMYbF/trtcocuk21a.png"
+        "title": "TV 264 (1080p)",
+        "logo": "https://i.imgur.com/tudXdOZ.png",
+        "cat": "Undefined",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
     },
     {
-        "title": "TRT D\u0130YANET \u00c7OCUK",
-        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/qDF8pHQ/tdcc.png"
+        "title": "TV Den (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Uhg95Ze.png",
+        "cat": "Undefined",
+        "url": "http://canli.tvden.com.tr/hls/live.m3u8"
     },
     {
-        "title": "M\u0130N\u0130KA \u00c7OCUK",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/L8ftBdN/minikacocuk.png"
+        "title": "TVnet (720p)",
+        "logo": "https://i.imgur.com/mQo8yWQ.png",
+        "cat": "Undefined",
+        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
     },
     {
-        "title": "M\u0130N\u0130KA GO",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/R2Zgy7F/minikago.png"
+        "title": "Urfa Natik TV (720p)",
+        "logo": "https://i.imgur.com/8KO0uxn.png",
+        "cat": "Undefined",
+        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
     },
     {
-        "title": "HT SPOR",
-        "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F0Tsz1v/htsportr.png"
+        "title": "\u00dc\u00dc TV \u00dcsk\u00fcdar \u00dcniversitesi TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/FjFjdY5.png",
+        "cat": "Undefined",
+        "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8"
     },
     {
-        "title": "HT SPOR",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ce=3",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F0Tsz1v/htsportr.png"
+        "title": "Vav TV",
+        "logo": "https://i.imgur.com/jw0gB8L.png",
+        "cat": "Undefined",
+        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
     },
     {
-        "title": "BIS HABER",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BfM21nC/beinhaber.png"
+        "title": "Viasat Explore",
+        "logo": "https://i.imgur.com/DyT5pKB.png",
+        "cat": "Documentary",
+        "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8"
     },
     {
-        "title": "A SPOR",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "A SPOR",
-        "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "SPORTS TV",
-        "url": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/4Rm7Z6Z/sports22.png"
-    },
-    {
-        "title": "EKOL SPORTS",
-        "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg"
-    },
-    {
-        "title": "TRT SPOR [geo-blocked]",
-        "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
-    },
-    {
-        "title": "TRT SPOR",
-        "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
-    },
-    {
-        "title": "TRT SPOR",
-        "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
-    },
-    {
-        "title": "TRT SPOR2 YILDIZ",
-        "url": "http://78.128.125.60:9980/play/a01s/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png"
-    },
-    {
-        "title": "TRT SPOR2 YILDIZ",
-        "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png"
-    },
-    {
-        "title": "TJK TV [geo-blocked]",
-        "url": "http://tjktv.ercdn.net/tjktv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0Yt6jbg/tjk.png"
-    },
-    {
-        "title": "TJK TV [geo-blocked]",
-        "url": "http://tjktv-live.tjk.org/tjktv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/0Yt6jbg/tjk.png"
-    },
-    {
-        "title": "TAY TV",
-        "url": "http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/J5QjKLt/tay22.png"
-    },
-    {
-        "title": "TRT EBA TV",
-        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/8g20RBH/ebatek.png"
-    },
-    {
-        "title": "HT SPOR (backup)",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F0Tsz1v/htsportr.png"
-    },
-    {
-        "title": "HT SPOR (backup)",
-        "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/F0Tsz1v/htsportr.png"
-    },
-    {
-        "title": "BIS HABER (backup)",
-        "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BfM21nC/beinhaber.png"
-    },
-    {
-        "title": "BIS HABER (backup)",
-        "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BfM21nC/beinhaber.png"
-    },
-    {
-        "title": "BIS HABER (backup)",
-        "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/BfM21nC/beinhaber.png"
-    },
-    {
-        "title": "TRT SPOR (backup)",
-        "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
-    },
-    {
-        "title": "TRT SPOR2 YILDIZ (backup)",
-        "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png"
-    },
-    {
-        "title": "TRT3 SPOR [offline]",
-        "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/M9kWXzt/trt3spor22c.png"
-    },
-    {
-        "title": "SPORTS TV (backup)",
-        "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/4Rm7Z6Z/sports22.png"
-    },
-    {
-        "title": "A SPOR (backup)",
-        "url": "http://116.202.238.88/ASPOR_TR/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "A SPOR (backup)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "A SPOR (backup)",
-        "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "A SPOR (backup)",
-        "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "A SPOR [tkn-blocked]",
-        "url": "https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png"
-    },
-    {
-        "title": "TRT M\u00dcZ\u0130K",
-        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png"
-    },
-    {
-        "title": "KRAL - KRAL POP",
-        "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/6401NQw/kraltv.png"
-    },
-    {
-        "title": "DREAM T\u00dcRK",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/4SsJS4R/dreamturk.png"
-    },
-    {
-        "title": "POWER T\u00dcRK",
-        "url": "http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B6N9KsN/powerturk22.png"
-    },
-    {
-        "title": "POWER T\u00dcRK",
-        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/B6N9KsN/powerturk22.png"
-    },
-    {
-        "title": "POWER T\u00dcRK TAPTAZE",
-        "url": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wy1H8jM/pturkttaze.png"
-    },
-    {
-        "title": "POWER T\u00dcRK SLOW",
-        "url": "http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/rZxNWKv/pslow.png"
-    },
-    {
-        "title": "POWER T\u00dcRK AKUST\u0130K",
-        "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/FgCW885/pturkakustik.png"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wSPFds2/nr1turk.png"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK ASK",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/jJWLsCQ/nr1ask.jpg"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK ASK",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/jJWLsCQ/nr1ask.jpg"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK DAMAR",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/824MwJ6/nr1damar.jpg"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK DAMAR",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/824MwJ6/nr1damar.jpg"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK DANCE",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/LR5v10B/nr1dance.jpg"
-    },
-    {
-        "title": "NUMBER ONE T\u00dcRK DANCE",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/LR5v10B/nr1dance.jpg"
-    },
-    {
-        "title": "NUMBER ONE",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/bQHyST5/nr1tv.png"
-    },
-    {
-        "title": "FASHION ONE",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9grLJCS/fone22.png"
-    },
-    {
-        "title": "FASHION ONE",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/9grLJCS/fone22.png"
-    },
-    {
-        "title": "POWER TV",
-        "url": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xhfcTC7/powertv.png"
-    },
-    {
-        "title": "POWER TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xhfcTC7/powertv.png"
-    },
-    {
-        "title": "POWER DANCE",
-        "url": "http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/FVNL477/pdance.png"
-    },
-    {
-        "title": "POWER LOVE",
-        "url": "http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/VLQ6cmV/plove.png"
-    },
-    {
-        "title": "NUMBER ONE (backup)",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/bQHyST5/nr1tv.png"
-    },
-    {
-        "title": "KRAL - KRAL POP (backup)",
-        "url": "http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/6401NQw/kraltv.png"
-    },
-    {
-        "title": "KRAL - KRAL POP (backup)",
-        "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/6401NQw/kraltv.png"
-    },
-    {
-        "title": "TRT AVAZ",
-        "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/xzZk0Yq/trtavaz.png"
-    },
-    {
-        "title": "TRT T\u00dcRK",
-        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/swtn1kV/trtturk.png"
-    },
-    {
-        "title": "KANAL 7 AVRUPA",
-        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cDxKJy1/k7avr1.png"
-    },
-    {
-        "title": "EURO D",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/THj0Jrg/eurod22.png"
-    },
-    {
-        "title": "ATV AVRUPA (ge\u00e7ici ge\u00e7erli)",
-        "url": "http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/PtH4wGr/atvavr.png"
-    },
-    {
-        "title": "TV8 INT (ge\u00e7ici ge\u00e7erli)",
-        "url": "http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/n7Jy3h5/tv8int22.png"
-    },
-    {
-        "title": "TGRT EU",
-        "url": "https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/MCXCRcn/tgrteu1.png"
-    },
-    {
-        "title": "\u00c7\u0130FT\u00c7\u0130 TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/vHwMgx0/ciftci.png"
-    },
-    {
-        "title": "D\u0130YANET TV",
-        "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/k9phm3v/diyanettv.png"
-    },
-    {
-        "title": "SEMERKAND",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/k8L3Mq1/semerkandtv.png"
-    },
-    {
-        "title": "SEMERKAND WAY",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/k8L3Mq1/semerkandtv.png"
-    },
-    {
-        "title": "DOST TV",
-        "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/jwgqtSB/dosttv.png"
-    },
-    {
-        "title": "REHBER TV",
-        "url": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/tHfxLTn/rehbertv.png"
-    },
-    {
-        "title": "LALEG\u00dcL TV",
-        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/wrL2khn/lalegul.png"
-    },
-    {
-        "title": "CAN TV",
-        "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/FX1SqtR/cantv.jpg"
-    },
-    {
-        "title": "CAN TV",
-        "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/FX1SqtR/cantv.jpg"
-    },
-    {
-        "title": "ON4 TV",
-        "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/6B8M20v/on422.png"
-    },
-    {
-        "title": "LUYS TV",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/KjLpH6t/luys.png"
-    },
-    {
-        "title": "SAT 7 T\u00dcRK",
-        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Cm1kp8f/sat7turk.png"
-    },
-    {
-        "title": "SAT 7 T\u00dcRK",
-        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/Cm1kp8f/sat7turk.png"
-    },
-    {
-        "title": "KANAL HAYAT",
-        "url": "https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.isml/live.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/1qFR0jX/Kanalhayat.png"
-    },
-    {
-        "title": "ABN TURKEY",
-        "url": "https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/ChhQT8b/Abn.png"
-    },
-    {
-        "title": "TGRT BELGESEL",
-        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/JHH0xcX/tgrtbel22.png"
-    },
-    {
-        "title": "TGRT BELGESEL",
-        "url": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/JHH0xcX/tgrtbel22.png"
-    },
-    {
-        "title": "KANAL 7 AVRUPA (backup)",
-        "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cDxKJy1/k7avr1.png"
-    },
-    {
-        "title": "ANADOLU NET TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "AKSU TV KAHRAMANMARA\u015e",
-        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ALANYA POSTA TV",
-        "url": "https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ALTAS TV ORDU",
-        "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "AS TV BURSA",
-        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "B\u0130R TV \u0130ZM\u0130R",
-        "url": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "BRTV KARAB\u00dcK",
-        "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "BURSA LINE TV",
-        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "BURSA ON6 TV",
-        "url": "https://live.euromediacenter.com/on6tvyayin/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "\u00c7AY TV R\u0130ZE",
-        "url": "https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "DEN\u0130Z POSTASI TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "D\u0130M TV ALANYA",
-        "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "D\u0130YAR TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ER TV MALATYA",
-        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ERC\u0130YES TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ERZURUM WEB TV",
-        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ES TV ESK\u0130\u015eEH\u0130R",
-        "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ED\u0130RNE TV",
-        "url": "https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ESENLER \u015eEH\u0130R TV",
-        "url": "https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ETV KAYSER\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "FRT FETH\u0130YE",
-        "url": "https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "GRT GAZ\u0130ANTEP TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "G\u00dcNEYDO\u011eU TV",
-        "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "HABER61 TRABZON",
-        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "HUNAT TV KAYSER\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "\u0130\u00c7EL TV MERS\u0130N",
-        "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "\u0130ZM\u0130R TIME 35 TV",
-        "url": "https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 15 BURDUR",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 19 \u00c7ORUM",
-        "url": "https://live.euromediacenter.com/kanal19/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 23 ELAZI\u011e",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 23 ELAZI\u011e",
-        "url": "https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 26 ESK\u0130\u015eEH\u0130R",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 3 AFYONKARAH\u0130SAR",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 32 ISPARTA",
-        "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 33 MERS\u0130N",
-        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 34 \u0130STANBUL",
-        "url": "https://live.euromediacenter.com/kanal34/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL 58 S\u0130VAS",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL FIRAT",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL URFA",
-        "url": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL V ANTALYA",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL Z ZONGULDAK",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KASTAMONU TV",
-        "url": "http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KARAB\u00dcK DER\u0130N TV",
-        "url": "https://cdn1-derintv.yayin.com.tr/derintv/derintv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KARDELEN TV",
-        "url": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KAY TV KAYSER\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "K+ KAYSER\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KOCAEL\u0130 TV",
-        "url": "https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KONYA KTV",
-        "url": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KONYA OLAY TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "LIFE TV KAYSER\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "MALATYA PENCERE",
-        "url": "https://cdn-malatyapencere.yayin.com.tr/malatyapencere/malatyapencere/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "MALATYA VUSLAT TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "MAN\u0130SA ETV",
-        "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "MERCAN TV ADIYAMAN",
-        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "METROPOL DEN\u0130ZL\u0130",
-        "url": "https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "MU\u011eLA T\u00dcRK TV",
-        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "OLAY T\u00dcRK KAYSER\u0130 TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "OLAY TV BURSA",
-        "url": "http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ORDU BEL TV",
-        "url": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ORT OSMAN\u0130YE TV",
-        "url": "https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "POSTA TV ALANYA",
-        "url": "http://cdn-postatv.yayin.com.tr/postatv/postatv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "R\u0130ZE T\u00dcRK TV",
-        "url": "https://yayin.rizeturk.com:3777/hybrid/play.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "SLOW KARADEN\u0130Z TV",
-        "url": "https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "SUN RTV MERS\u0130N",
-        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TEMPO TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV 3 AFYONKARAH\u0130SAR",
-        "url": "https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TON TV \u00c7ANAKKALE",
-        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV KAYSER\u0130",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/tvkayseri.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV 1 KAYSER\u0130",
-        "url": "https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV 264 SAKARYA",
-        "url": "http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV 41 KOCAEL\u0130",
-        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV 52 ORDU",
-        "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "TV DEN AYDIN",
-        "url": "http://canli.tvden.com.tr/hls/live.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "UR FANAT\u0130K TV",
-        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "\u00dcSK\u00dcDAR UN\u0130VERS\u0130TE TV",
-        "url": "http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "VAN G\u00d6L\u00dc TV",
-        "url": "https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "V\u0130YANA TV",
-        "url": "http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "BR\u00dcKSEL T\u00dcRK",
-        "url": "https://live.euromediacenter.com/brukselturk/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "BALKAN T\u00dcRK",
-        "url": "https://live.euromediacenter.com/balkanturktv/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "KANAL AVRUPA",
-        "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "EZG\u0130 TV",
-        "url": "https://live.euromediacenter.com/ezgitv/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png"
-    },
-    {
-        "title": "ADA TV",
-        "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/y8p46cM/Kktc.png"
-    },
-    {
-        "title": "ZAROK KURMAN\u00ce",
-        "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "ZAROK SORAN\u00ce",
-        "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "ZAROK",
-        "url": "https://iko-live.akamaized.net/ZarokTV/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "TRT KURD\u00ce",
-        "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "ZAGROS TV",
-        "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "R\u00dbDAW TV",
-        "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "ROJAVA TV",
-        "url": "https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "MED MUSIC",
-        "url": "https://iko-live.akamaized.net/MedMusicTV/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "MEDYA HABER",
-        "url": "https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "RONAHI TV",
-        "url": "https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "RONAHI TV",
-        "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KURDISTAN 24",
-        "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KURDISTAN TV",
-        "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KURDSAT",
-        "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KURDSAT",
-        "url": "https://iko-live.akamaized.net/kurdhd/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KURDSAT NEWS",
-        "url": "https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "KOMALA TV",
-        "url": "https://live.tvkomala.com/live/komala/chunks.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "WELAT TV",
-        "url": "http://stream.welattv.net:1935/welat/tv/.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
-    },
-    {
-        "title": "J\u00ceN TV",
-        "url": "https://live.jintv.org/medialive/jintv.m3u8",
-        "cat": "Turkey",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png"
+        "title": "Zarok TV (720p)",
+        "logo": "https://i.imgur.com/o0eevnb.png",
+        "cat": "Undefined",
+        "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
     }
 ]
