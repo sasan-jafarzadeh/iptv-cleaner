@@ -9,18 +9,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      
       - name: Install Requests
         run: pip install requests
+      
       - name: Run Script
         run: python update_list.py
+      
       - name: Push Results
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add live_channels.json
-          git commit -m "Update channels" || exit 0
+          # This line below now tells GitHub to save both file types
+          git add live_channels.json live_list.m3u
+          git commit -m "Update JSON and M3U channel lists" || exit 0
           git push
