@@ -22,7 +22,7 @@ HEADERS = {
 PLAYLIST_TIMEOUT = 15
 STREAM_TIMEOUT = 8
 
-OUTPUT_FILE = "live_list_cleaned.m3u"
+OUTPUT_FILE = "live_list.m3u"
 OUTPUT_JSON = "live_channels.json"
 
 
