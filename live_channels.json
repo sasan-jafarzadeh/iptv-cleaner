@@ -1592,6 +1592,11 @@
   {
     "name": "A2 (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
+    "url": "https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8"
+  },
+  {
+    "name": "A2 (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
   },
   {
@@ -1800,6 +1805,11 @@
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
   },
   {
+    "name": "A SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
+    "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
+  },
+  {
     "name": "A SPOR [tkn-blocked]",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR [tkn-blocked]",
     "url": "https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765"
@@ -1823,11 +1833,6 @@
     "name": "KRAL - KRAL POP",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/6401NQw/kraltv.png\",KRAL - KRAL POP",
     "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8"
-  },
-  {
-    "name": "DREAM TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/4SsJS4R/dreamturk.png\",DREAM TÜRK",
-    "url": "http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
   },
   {
     "name": "POWER TÜRK",
