@@ -564,12 +564,6 @@
         "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
     },
     {
-        "title": "DHA (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/VZhag2x.png",
-        "cat": "News",
-        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
-    },
-    {
         "title": "D\u0130M TV (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/X4QFDhk.png",
         "cat": "News",
@@ -1356,12 +1350,6 @@
         "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
     },
     {
-        "title": "BUSINESS CHANNEL T\u00dcRK",
-        "logo": "https://i.ibb.co/b2b6Zn0/businesschtr.jpg",
-        "cat": "General",
-        "url": "https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8"
-    },
-    {
         "title": "F\u0130NANS T\u00dcRK",
         "logo": "https://i.ibb.co/GQdBjZfW/finansturk.png",
         "cat": "General",
@@ -1378,6 +1366,12 @@
         "logo": "https://i.ibb.co/BN9tk1q/tbmm22.png",
         "cat": "General",
         "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    },
+    {
+        "title": "DHA (feed 2)",
+        "logo": "https://i.ibb.co/K6BKFqY/dha.png",
+        "cat": "General",
+        "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8"
     },
     {
         "title": "TRT HABER",
@@ -1833,12 +1827,6 @@
         "title": "A2 (backup)",
         "logo": "https://i.ibb.co/2qrg9QF/a2022.png",
         "cat": "General",
-        "url": "https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8"
-    },
-    {
-        "title": "A2 (backup)",
-        "logo": "https://i.ibb.co/2qrg9QF/a2022.png",
-        "cat": "General",
         "url": "https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8"
     },
     {
@@ -1965,6 +1953,12 @@
         "title": "TRT SPOR",
         "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
         "cat": "General",
+        "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8"
+    },
+    {
+        "title": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "cat": "General",
         "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8"
     },
     {
@@ -2037,7 +2031,7 @@
         "title": "BIS HABER (backup)",
         "logo": "https://i.ibb.co/BfM21nC/beinhaber.png",
         "cat": "General",
-        "url": "https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8"
+        "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
     },
     {
         "title": "TRT SPOR (backup)",
@@ -2074,12 +2068,6 @@
         "logo": "https://i.ibb.co/xSjB51j/aspor.png",
         "cat": "General",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8"
-    },
-    {
-        "title": "A SPOR (backup)",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png",
-        "cat": "General",
-        "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
     },
     {
         "title": "A SPOR (backup)",
@@ -2628,28 +2616,10 @@
         "url": "https://kanal53.ozelip.com:3448/hybrid/play.m3u8"
     },
     {
-        "title": "KANAL 58 S\u0130VAS",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
-    },
-    {
-        "title": "KANAL FIRAT",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
-    },
-    {
         "title": "KANAL URFA",
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "cat": "General",
         "url": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
-    },
-    {
-        "title": "KANAL V ANTALYA",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
     },
     {
         "title": "KANAL Z ZONGULDAK",
@@ -2718,22 +2688,10 @@
         "url": "https://cdn-malatyapencere.yayin.com.tr/malatyapencere/malatyapencere/playlist.m3u8"
     },
     {
-        "title": "MALATYA VUSLAT TV",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
-    },
-    {
         "title": "MAN\u0130SA ETV",
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "cat": "General",
         "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-    },
-    {
-        "title": "MERCAN TV ADIYAMAN",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8"
     },
     {
         "title": "METROPOL DEN\u0130ZL\u0130",
@@ -2790,24 +2748,6 @@
         "url": "https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8"
     },
     {
-        "title": "SUN RTV MERS\u0130N",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8"
-    },
-    {
-        "title": "TEMPO TV",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
-    },
-    {
-        "title": "TV 3 AFYONKARAH\u0130SAR",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8"
-    },
-    {
         "title": "TON TV \u00c7ANAKKALE",
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "cat": "General",
@@ -2830,12 +2770,6 @@
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "cat": "General",
         "url": "http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
-    },
-    {
-        "title": "TV 41 KOCAEL\u0130",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "cat": "General",
-        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8"
     },
     {
         "title": "TV 52 ORDU",
