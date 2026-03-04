@@ -880,6 +880,11 @@
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
   },
   {
+    "name": "TRT Çocuk (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Çocuk (720p)",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
     "name": "TRT Diyanet Çocuk (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTDiyanetCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/8PmXz9t.png\" group-title=\"Kids\",TRT Diyanet Çocuk (720p)",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -1345,6 +1350,11 @@
     "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8"
   },
   {
+    "name": "ATV",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8"
+  },
+  {
     "name": "KANAL 7",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/1s3fHfm/k7tr1.png\",KANAL 7",
     "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
@@ -1405,16 +1415,6 @@
     "url": "http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web"
   },
   {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\" tvg-id=\"Fox.tr\",NOW (backup)",
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
-  },
-  {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
-  },
-  {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
@@ -1433,6 +1433,11 @@
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
   },
   {
     "name": "ATV (backup)",
@@ -1598,6 +1603,11 @@
     "name": "TLC TR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/Z1vHy41/tlc.png\",TLC TR (backup)",
     "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469"
+  },
+  {
+    "name": "TRT ÇOCUK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/YjkMYbF/trtcocuk21a.png\" group-title=\"10. |TR|🇹🇷 ÇOCUK - SPOR\",TRT ÇOCUK",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
   },
   {
     "name": "TRT DİYANET ÇOCUK",
