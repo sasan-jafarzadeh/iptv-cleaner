@@ -885,11 +885,6 @@
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
   },
   {
-    "name": "TRT Çocuk (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Çocuk (720p)",
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-  },
-  {
     "name": "TRT Diyanet Çocuk (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTDiyanetCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/8PmXz9t.png\" group-title=\"Kids\",TRT Diyanet Çocuk (720p)",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -1475,6 +1470,11 @@
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
+  },
+  {
     "name": "ATV [youtube-src]",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV [youtube-src]",
     "url": "https://youtu.be/1KXZDgP9W5E"
@@ -1558,11 +1558,6 @@
     "name": "ONS TV",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/PZW37ch0/onstv.jpg\",ONS TV",
     "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "name": "ONS TV",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/PZW37ch0/onstv.jpg\",ONS TV",
-    "url": "https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/playlist.m3u8"
   },
   {
     "name": "TEVE 2",
@@ -1753,11 +1748,6 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8"
-  },
-  {
-    "name": "BIS HABER (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "BIS HABER (backup)",
@@ -2318,6 +2308,11 @@
     "name": "K+ KAYSERİ",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",K+ KAYSERİ",
     "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8"
+  },
+  {
+    "name": "KENT TV BODRUM",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KENT TV BODRUM",
+    "url": "https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8"
   },
   {
     "name": "KOCAELİ TV",
