@@ -4,7 +4,8 @@ import json
 # Your list of M3U sources
 sources = [
     "https://iptv-org.github.io/iptv/countries/ir.m3u",
-    "https://iptv-org.github.io/iptv/countries/tr.m3u"
+    "https://iptv-org.github.io/iptv/countries/tr.m3u",
+    "https://onureroz.com/indirmeler/turk/index.m3u"
 ]
 
 live_channels = []
