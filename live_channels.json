@@ -405,6 +405,11 @@
     "url": "https://starmenajo.com/hls/almahriah/index.m3u8"
   },
   {
+    "name": "Alqanat9 TV (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"AlQanat9.tr@SD\" tvg-logo=\"https://i.imgur.com/HC91Mho.png\" group-title=\"News\",Alqanat9 TV (1080p)",
+    "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
+  },
+  {
     "name": "Altas TV (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"AltasTV.tr@SD\" tvg-logo=\"https://i.imgur.com/XaJ7fp6.png\" group-title=\"General\",Altas TV (1080p)",
     "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
@@ -1452,7 +1457,17 @@
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
   },
   {
     "name": "ATV [youtube-src]",
@@ -1553,16 +1568,6 @@
     "name": "SHOW MAX",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX",
     "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8"
-  },
-  {
-    "name": "SHOW MAX (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8"
-  },
-  {
-    "name": "A2 (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8"
   },
   {
     "name": "A2 (backup)",
@@ -1762,22 +1767,12 @@
   {
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
-  },
-  {
-    "name": "A SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
   },
   {
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8"
   },
   {
     "name": "HT SPOR (backup)",
