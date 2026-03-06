@@ -165,6 +165,11 @@
     "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8"
   },
   {
+    "name": "Iran Jewish TV",
+    "extinf": "#EXTINF:-1 tvg-id=\"IranJewishTV.ir@SD\" tvg-logo=\"https://i.ibb.co/JWXs7csN/en.png\" group-title=\"Religious\",Iran Jewish TV",
+    "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
+  },
+  {
     "name": "Iran Press",
     "extinf": "#EXTINF:-1 tvg-id=\"IranPress.ir@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg\" group-title=\"News\",Iran Press",
     "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
@@ -655,11 +660,6 @@
     "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
   },
   {
-    "name": "Lalegul TV (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"LalegulTV.tr@SD\" tvg-logo=\"https://i.imgur.com/wwCysFs.png\" group-title=\"Religious\",Lalegul TV (1080p)",
-    "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8"
-  },
-  {
     "name": "Life TV (720p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"LifeTV.tr@SD\" tvg-logo=\"https://i.imgur.com/lWeJxm0.png\" group-title=\"News\",Life TV (720p) [Not 24/7]",
     "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
@@ -1140,6 +1140,11 @@
     "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
   },
   {
+    "name": "BUSINESS CHANNEL TÜRK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/b2b6Zn0/businesschtr.jpg\",BUSINESS CHANNEL TÜRK",
+    "url": "https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8"
+  },
+  {
     "name": "CNBC-E",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kcpSwmK/cnbce.png\",CNBC-E",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8"
@@ -1420,6 +1425,11 @@
     "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
   },
   {
+    "name": "NOW (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
+  },
+  {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
@@ -1433,6 +1443,11 @@
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=gIdaTOTzZuw&m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8"
   },
   {
     "name": "ATV (backup)",
