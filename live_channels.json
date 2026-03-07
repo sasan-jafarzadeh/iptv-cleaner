@@ -225,11 +225,6 @@
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
   },
   {
-    "name": "PBC Tapesh TV (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PBCTapeshTV.us@SD\" tvg-logo=\"https://i.imgur.com/50JzsmH.png\" group-title=\"General\",PBC Tapesh TV (720p)",
-    "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
-  },
-  {
     "name": "Persiana Cinema",
     "extinf": "#EXTINF:-1 tvg-id=\"PersianaCinema.fr@SD\" tvg-logo=\"https://i.imgur.com/hgIro9r.png\" group-title=\"Movies\",Persiana Cinema",
     "url": "https://cinehls.persiana.live/hls/stream.m3u8"
@@ -885,11 +880,6 @@
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
   },
   {
-    "name": "TRT Çocuk (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Çocuk (720p)",
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-  },
-  {
     "name": "TRT Diyanet Çocuk (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTDiyanetCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/8PmXz9t.png\" group-title=\"Kids\",TRT Diyanet Çocuk (720p)",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -1148,11 +1138,6 @@
     "name": "TÜRK HABER",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/j9Pmc2qN/thhaber.jpg\",TÜRK HABER",
     "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
-  },
-  {
-    "name": "BUSINESS CHANNEL TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/b2b6Zn0/businesschtr.jpg\",BUSINESS CHANNEL TÜRK",
-    "url": "https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8"
   },
   {
     "name": "FİNANS TÜRK",
@@ -1457,6 +1442,11 @@
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
@@ -1610,11 +1600,6 @@
     "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469"
   },
   {
-    "name": "TRT ÇOCUK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/YjkMYbF/trtcocuk21a.png\" group-title=\"10. |TR|🇹🇷 ÇOCUK - SPOR\",TRT ÇOCUK",
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-  },
-  {
     "name": "TRT DİYANET ÇOCUK",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/qDF8pHQ/tdcc.png\",TRT DİYANET ÇOCUK",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -1717,6 +1702,11 @@
   {
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
+    "url": "https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
+  },
+  {
+    "name": "HT SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8"
   },
   {
@@ -1733,6 +1723,11 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+  },
+  {
+    "name": "BIS HABER (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8"
   },
   {
     "name": "TRT SPOR (backup)",
@@ -1763,6 +1758,11 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8"
+  },
+  {
+    "name": "A SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
   },
   {
     "name": "A SPOR (backup)",
