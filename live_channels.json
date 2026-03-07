@@ -675,11 +675,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
   },
   {
-    "name": "Line TV (720p) [Not 24/7]",
-    "extinf": "#EXTINF:-1 tvg-id=\"LineTV.tr@SD\" tvg-logo=\"https://i.imgur.com/6GNp7f8.png\" group-title=\"General\",Line TV (720p) [Not 24/7]",
-    "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
-  },
-  {
     "name": "MaviKaradeniz (1080p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"MaviKaradenizTV.tr@SD\" tvg-logo=\"https://i.imgur.com/wyWappU.png\" group-title=\"General\",MaviKaradeniz (1080p) [Not 24/7]",
     "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
@@ -793,6 +788,11 @@
     "name": "Sat7 Türk (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"Sat7Turk.cy@SD\" tvg-logo=\"https://i.imgur.com/cKQIK4i.png\" group-title=\"Undefined\",Sat7 Türk (1080p)",
     "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
+  },
+  {
+    "name": "Satranç TV (480p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"BricveSatrancTV.tr@SD\" tvg-logo=\"https://i.imgur.com/TXDV1ty.png\" group-title=\"Undefined\",Satranç TV (480p) [Not 24/7]",
+    "url": "http://139.162.182.79/live/test/index.m3u8"
   },
   {
     "name": "Semerkand TV (1080p) [Not 24/7]",
@@ -1355,16 +1355,6 @@
     "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788"
   },
   {
-    "name": "TV8",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/tXKXNDz/tv8.png\",TV8",
-    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8"
-  },
-  {
-    "name": "ATV",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8"
-  },
-  {
     "name": "KANAL 7",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/1s3fHfm/k7tr1.png\",KANAL 7",
     "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
@@ -1378,11 +1368,6 @@
     "name": "BEYAZ TV",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0tc3PYz/beyaz22b.png\",BEYAZ TV",
     "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8"
-  },
-  {
-    "name": "TRT 1 (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/d6c87Km/trt122.png\",TRT 1 (backup)",
-    "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
   },
   {
     "name": "TRT 1 (backup)",
@@ -1453,11 +1438,6 @@
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
-  },
-  {
-    "name": "ATV (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
   },
   {
     "name": "ATV [youtube-src]",
@@ -1665,11 +1645,6 @@
     "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8"
   },
   {
-    "name": "EKOL SPORTS",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg\",EKOL SPORTS",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ekol_Spor.m3u8"
-  },
-  {
     "name": "TRT SPOR [geo-blocked]",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/3WmLjwG/trtspor22c.png\",TRT SPOR [geo-blocked]",
     "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb"
@@ -1748,11 +1723,6 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "http://116.202.238.88/ASPOR_TR/index.m3u8"
-  },
-  {
-    "name": "A SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8"
   },
   {
     "name": "A SPOR (backup)",
@@ -1898,6 +1868,11 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+  },
+  {
+    "name": "SHOW TÜRK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
+    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
