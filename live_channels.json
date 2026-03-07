@@ -205,11 +205,6 @@
     "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
   },
   {
-    "name": "Omide Iran",
-    "extinf": "#EXTINF:-1 tvg-id=\"OmideIranTV.us@SD\" tvg-logo=\"https://i.imgur.com/CeMf68L.png\" group-title=\"Entertainment\",Omide Iran",
-    "url": "https://oitnhls.wns.live/hls/stream.m3u8"
-  },
-  {
     "name": "OXIR TV",
     "extinf": "#EXTINF:-1 tvg-id=\"OXIRTV.ir@SD\" tvg-logo=\"https://i.imgur.com/MGMhUDx.png\" group-title=\"Entertainment\",OXIR TV",
     "url": "https://hls.oxir.live/hls/stream.m3u8"
@@ -1470,11 +1465,6 @@
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
-    "name": "ATV (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
-  },
-  {
     "name": "ATV [youtube-src]",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV [youtube-src]",
     "url": "https://youtu.be/1KXZDgP9W5E"
@@ -1733,11 +1723,6 @@
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
   },
   {
     "name": "HT SPOR (backup)",
