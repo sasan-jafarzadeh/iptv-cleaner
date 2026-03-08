@@ -1155,6 +1155,11 @@
     "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
   },
   {
+    "name": "BUSINESS CHANNEL TÜRK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/b2b6Zn0/businesschtr.jpg\",BUSINESS CHANNEL TÜRK",
+    "url": "https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8"
+  },
+  {
     "name": "FİNANS TÜRK",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/GQdBjZfW/finansturk.png\",FİNANS TÜRK",
     "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
@@ -1565,6 +1570,16 @@
     "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8"
   },
   {
+    "name": "SHOW MAX (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8"
+  },
+  {
+    "name": "A2 (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8"
+  },
+  {
     "name": "A2 (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
@@ -1757,6 +1772,11 @@
   {
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
+  },
+  {
+    "name": "A SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
   },
   {
@@ -1898,6 +1918,11 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+  },
+  {
+    "name": "SHOW TÜRK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
+    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
