@@ -335,11 +335,6 @@
     "url": "https://rjtvhls.wns.live/hls/stream.m3u8"
   },
   {
-    "name": "RasoulallahTv (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"RasoulallahTv.ir@HD\" tvg-logo=\"https://i.imgur.com/Jh5ADee.png\" group-title=\"Religious\",RasoulallahTv (1080p)",
-    "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
-  },
-  {
     "name": "SL 1",
     "extinf": "#EXTINF:-1 tvg-id=\"SL1.ir@SD\" tvg-logo=\"https://i.imgur.com/n9cuM2W.jpg\" group-title=\"Movies\",SL 1",
     "url": "https://slonehls.wns.live/hls/stream.m3u8"
@@ -670,6 +665,11 @@
     "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8"
   },
   {
+    "name": "Life TV (720p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"LifeTV.tr@SD\" tvg-logo=\"https://i.imgur.com/lWeJxm0.png\" group-title=\"News\",Life TV (720p) [Not 24/7]",
+    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
+  },
+  {
     "name": "Line TV (720p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"LineTV.tr@SD\" tvg-logo=\"https://i.imgur.com/6GNp7f8.png\" group-title=\"General\",Line TV (720p) [Not 24/7]",
     "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
@@ -790,11 +790,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
   },
   {
-    "name": "Satranç TV (480p) [Not 24/7]",
-    "extinf": "#EXTINF:-1 tvg-id=\"BricveSatrancTV.tr@SD\" tvg-logo=\"https://i.imgur.com/TXDV1ty.png\" group-title=\"Undefined\",Satranç TV (480p) [Not 24/7]",
-    "url": "http://139.162.182.79/live/test/index.m3u8"
-  },
-  {
     "name": "Semerkand TV (1080p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"SemerkandTV.tr@SD\" tvg-logo=\"https://i.imgur.com/UVGGrQd.png\" group-title=\"Undefined\",Semerkand TV (1080p) [Not 24/7]",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
@@ -883,6 +878,11 @@
     "name": "TRT Avaz (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTAvaz.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png\" group-title=\"Undefined\",TRT Avaz (720p)",
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Çocuk (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Çocuk (720p)",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
   },
   {
     "name": "TRT Diyanet Çocuk (720p)",
@@ -1462,6 +1462,11 @@
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
+  },
+  {
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
@@ -1582,6 +1587,11 @@
   {
     "name": "A2 (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
+    "url": "https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8"
+  },
+  {
+    "name": "A2 (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
   },
   {
@@ -1618,6 +1628,11 @@
     "name": "TLC TR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/Z1vHy41/tlc.png\",TLC TR (backup)",
     "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469"
+  },
+  {
+    "name": "TRT ÇOCUK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/YjkMYbF/trtcocuk21a.png\" group-title=\"10. |TR|🇹🇷 ÇOCUK - SPOR\",TRT ÇOCUK",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
   },
   {
     "name": "TRT DİYANET ÇOCUK",
@@ -1722,6 +1737,11 @@
   {
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
+    "url": "https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
+  },
+  {
+    "name": "HT SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8"
   },
   {
@@ -1733,6 +1753,11 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8"
+  },
+  {
+    "name": "BIS HABER (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
+    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "BIS HABER (backup)",
