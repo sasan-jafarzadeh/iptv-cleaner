@@ -790,6 +790,11 @@
     "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
   },
   {
+    "name": "Satranç TV (480p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"BricveSatrancTV.tr@SD\" tvg-logo=\"https://i.imgur.com/TXDV1ty.png\" group-title=\"Undefined\",Satranç TV (480p) [Not 24/7]",
+    "url": "http://139.162.182.79/live/test/index.m3u8"
+  },
+  {
     "name": "Semerkand TV (1080p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"SemerkandTV.tr@SD\" tvg-logo=\"https://i.imgur.com/UVGGrQd.png\" group-title=\"Undefined\",Semerkand TV (1080p) [Not 24/7]",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
@@ -1058,11 +1063,6 @@
     "name": "ULUSAL KANAL",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/tXdf2YF/ulusal22.png\",ULUSAL KANAL",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8"
-  },
-  {
-    "name": "TV 5",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/6m9Pb3t/tv5tr1.png\",TV 5",
-    "url": "https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8"
   },
   {
     "name": "HABER TÜRK",
@@ -1440,14 +1440,14 @@
     "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
   },
   {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
-    "url": "https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8"
+    "name": "ATV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
+    "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
   },
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+    "url": "https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
   },
   {
     "name": "ATV (backup)",
@@ -1737,11 +1737,6 @@
   {
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8"
   },
   {
@@ -1753,6 +1748,11 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8"
+  },
+  {
+    "name": "BIS HABER (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
+    "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "BIS HABER (backup)",
@@ -1803,11 +1803,6 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
-  },
-  {
-    "name": "A SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
-    "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
   },
   {
     "name": "HT SPOR (backup)",
@@ -1958,11 +1953,6 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
-  },
-  {
-    "name": "SHOW TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
-    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
@@ -2328,11 +2318,6 @@
     "name": "KONYA OLAY TV",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KONYA OLAY TV",
     "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8"
-  },
-  {
-    "name": "LIFE TV KAYSERİ",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",LIFE TV KAYSERİ",
-    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
   },
   {
     "name": "MALATYA PENCERE",
