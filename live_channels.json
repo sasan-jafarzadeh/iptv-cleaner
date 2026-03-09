@@ -165,11 +165,6 @@
     "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8"
   },
   {
-    "name": "Iran Jewish TV",
-    "extinf": "#EXTINF:-1 tvg-id=\"IranJewishTV.ir@SD\" tvg-logo=\"https://i.ibb.co/JWXs7csN/en.png\" group-title=\"Religious\",Iran Jewish TV",
-    "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
-  },
-  {
     "name": "Iran Press",
     "extinf": "#EXTINF:-1 tvg-id=\"IranPress.ir@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/240px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg\" group-title=\"News\",Iran Press",
     "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
@@ -1585,6 +1580,11 @@
     "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469"
   },
   {
+    "name": "TRT ÇOCUK",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/YjkMYbF/trtcocuk21a.png\" group-title=\"10. |TR|🇹🇷 ÇOCUK - SPOR\",TRT ÇOCUK",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
     "name": "TRT DİYANET ÇOCUK",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/qDF8pHQ/tdcc.png\",TRT DİYANET ÇOCUK",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -1702,6 +1702,11 @@
   {
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
+    "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+  },
+  {
+    "name": "BIS HABER (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
@@ -1733,6 +1738,11 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
+  },
+  {
+    "name": "HT SPOR (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
+    "url": "https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8"
   },
   {
     "name": "TRT MÜZİK",
