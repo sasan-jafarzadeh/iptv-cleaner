@@ -230,11 +230,6 @@
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
   },
   {
-    "name": "PBC Tapesh TV (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PBCTapeshTV.us@SD\" tvg-logo=\"https://i.imgur.com/50JzsmH.png\" group-title=\"General\",PBC Tapesh TV (720p)",
-    "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
-  },
-  {
     "name": "Persiana Cinema",
     "extinf": "#EXTINF:-1 tvg-id=\"PersianaCinema.fr@SD\" tvg-logo=\"https://i.imgur.com/hgIro9r.png\" group-title=\"Movies\",Persiana Cinema",
     "url": "https://cinehls.persiana.live/hls/stream.m3u8"
@@ -1155,11 +1150,6 @@
     "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
   },
   {
-    "name": "BUSINESS CHANNEL TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/b2b6Zn0/businesschtr.jpg\",BUSINESS CHANNEL TÜRK",
-    "url": "https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8"
-  },
-  {
     "name": "FİNANS TÜRK",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/GQdBjZfW/finansturk.png\",FİNANS TÜRK",
     "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
@@ -1457,11 +1447,6 @@
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8"
-  },
-  {
-    "name": "ATV (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
@@ -1568,11 +1553,6 @@
     "name": "SHOW MAX (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX (backup)",
     "url": "https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8"
-  },
-  {
-    "name": "A2 (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8"
   },
   {
     "name": "A2 (backup)",
@@ -1762,11 +1742,6 @@
   {
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
-  },
-  {
-    "name": "A SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
   },
   {
@@ -1778,11 +1753,6 @@
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
   },
   {
     "name": "TRT MÜZİK",
@@ -1923,11 +1893,6 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
-  },
-  {
-    "name": "SHOW TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
-    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
