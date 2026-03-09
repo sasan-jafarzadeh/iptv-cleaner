@@ -885,6 +885,11 @@
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
   },
   {
+    "name": "TRT Çocuk (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Çocuk (720p)",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
     "name": "TRT Diyanet Çocuk (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTDiyanetCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/8PmXz9t.png\" group-title=\"Kids\",TRT Diyanet Çocuk (720p)",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -928,11 +933,6 @@
     "name": "TürkHaber (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TurkHaberTV.tr@SD\" tvg-logo=\"https://i.imgur.com/2AcRKdL.png\" group-title=\"News\",TürkHaber (720p)",
     "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
-  },
-  {
-    "name": "TV 1 (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TV1.tr@SD\" tvg-logo=\"https://i.imgur.com/8CtrYVb.png\" group-title=\"Undefined\",TV 1 (720p)",
-    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
   },
   {
     "name": "TV4 (720p)",
@@ -1435,11 +1435,6 @@
     "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
   },
   {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
-  },
-  {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
@@ -1448,11 +1443,6 @@
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=gIdaTOTzZuw&m3u8"
-  },
-  {
-    "name": "ATV (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8"
   },
   {
     "name": "ATV (backup)",
@@ -1727,7 +1717,7 @@
   {
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "BIS HABER (backup)",
@@ -1768,11 +1758,6 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
   },
   {
     "name": "TRT MÜZİK",
@@ -2230,11 +2215,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
   },
   {
-    "name": "KANAL URFA",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KANAL URFA",
-    "url": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
-  },
-  {
     "name": "KANAL V ANTALYA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KANAL V ANTALYA",
     "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
@@ -2383,11 +2363,6 @@
     "name": "TV KAYSERİ",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",TV KAYSERİ",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/tvkayseri.m3u8"
-  },
-  {
-    "name": "TV 1 KAYSERİ",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",TV 1 KAYSERİ",
-    "url": "https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8"
   },
   {
     "name": "TV 264 SAKARYA",
