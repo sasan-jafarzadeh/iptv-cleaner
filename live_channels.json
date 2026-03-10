@@ -60,11 +60,6 @@
     "url": "https://avaserieshls.wns.live/hls/stream.m3u8"
   },
   {
-    "name": "Avang TV (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"AvangTV.us@SD\" tvg-logo=\"https://i.imgur.com/3I1n7fO.png\" group-title=\"Music\",Avang TV (1080p)",
-    "url": "https://hls.avang.live/hls/stream.m3u8"
-  },
-  {
     "name": "Bravo Farsi TV (360p)",
     "extinf": "#EXTINF:-1 tvg-id=\"BravoFarsiTV.ir@SD\" tvg-logo=\"https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg\" group-title=\"Movies\",Bravo Farsi TV (360p)",
     "url": "https://bravoohls.wns.live/hls/stream.m3u8"
@@ -250,11 +245,6 @@
     "url": "https://scihls.persiana.live/hls/stream.m3u8"
   },
   {
-    "name": "Persiana Family",
-    "extinf": "#EXTINF:-1 tvg-id=\"PersianaFamily.fr@SD\" tvg-logo=\"https://i.imgur.com/lMZsuWi.png\" group-title=\"Movies\",Persiana Family",
-    "url": "https://familyhls.persiana.live/hls/stream.m3u8"
-  },
-  {
     "name": "Persiana Fight",
     "extinf": "#EXTINF:-1 tvg-id=\"PersianaFight.fr@HD\" tvg-logo=\"https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png\" group-title=\"Sports\",Persiana Fight",
     "url": "https://fighthls.persiana.live/hls/stream.m3u8"
@@ -290,19 +280,9 @@
     "url": "https://musichls.persiana.live/hls/stream.m3u8"
   },
   {
-    "name": "Persiana Nostalgia",
-    "extinf": "#EXTINF:-1 tvg-id=\"PersianaNostalgia.fr@SD\" tvg-logo=\"https://i.imgur.com/SWO9CKA.png\" group-title=\"Classic;Music\",Persiana Nostalgia",
-    "url": "https://noshls.persiana.live/hls/stream.m3u8"
-  },
-  {
     "name": "Persiana Plus",
     "extinf": "#EXTINF:-1 tvg-id=\"PersianaPlus.fr@SD\" tvg-logo=\"https://i.imgur.com/0xttibX.png\" group-title=\"Movies\",Persiana Plus",
     "url": "https://euhls.persiana.live/hls/stream.m3u8"
-  },
-  {
-    "name": "Persiana Series",
-    "extinf": "#EXTINF:-1 tvg-id=\"PersianaSeries.fr@HD\" tvg-logo=\"https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png\" group-title=\"Series\",Persiana Series",
-    "url": "https://onehls.persiana.live/hls/stream.m3u8"
   },
   {
     "name": "Persiana Travel",
@@ -328,11 +308,6 @@
     "name": "PRO Sport International",
     "extinf": "#EXTINF:-1 tvg-id=\"PROSportInternational.my@SD\" tvg-logo=\"\" group-title=\"Sports\",PRO Sport International",
     "url": "https://proshls.wns.live/hls/stream.m3u8"
-  },
-  {
-    "name": "Radio Javan TV (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"RJTV.us@SD\" tvg-logo=\"https://i.imgur.com/a1zuW2C.png\" group-title=\"Music\",Radio Javan TV (1080p)",
-    "url": "https://rjtvhls.wns.live/hls/stream.m3u8"
   },
   {
     "name": "RasoulallahTv (1080p)",
@@ -1250,6 +1225,11 @@
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8"
   },
   {
+    "name": "EKOL TV (backup)",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/Ln92Dj2/Ekoltv.png\",EKOL TV (backup)",
+    "url": "https://helga.iptv2022.com/sh/ekol_tv/index.m3u8"
+  },
+  {
     "name": "BENGÜ TÜRK (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0MHPk8y/benguturk.png\",BENGÜ TÜRK (backup)",
     "url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8"
@@ -1425,11 +1405,6 @@
     "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
   },
   {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
-  },
-  {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
@@ -1543,11 +1518,6 @@
     "name": "SHOW MAX",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX",
     "url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8"
-  },
-  {
-    "name": "SHOW MAX (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/kxjKk89/showmax.png\",SHOW MAX (backup)",
-    "url": "https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8"
   },
   {
     "name": "A2 (backup)",
@@ -1708,11 +1678,6 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8"
-  },
-  {
-    "name": "BIS HABER (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "TRT SPOR (backup)",
