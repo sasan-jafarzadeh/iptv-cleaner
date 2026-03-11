@@ -257,8 +257,6 @@ https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalZ.tr@SD" tvg-logo="https://i.imgur.com/Kr8960d.png" group-title="General",Kanal Z (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:-1 tvg-id="KentTurk.tr@SD" tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="General",Kent Türk TV (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr@SD" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" group-title="General",Konya Olay TV (720p)
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL Pop TV (720p)
@@ -981,8 +979,6 @@ https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDSAT
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDSAT

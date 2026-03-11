@@ -645,11 +645,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
   },
   {
-    "name": "Kent Türk TV (1080p) [Not 24/7]",
-    "extinf": "#EXTINF:-1 tvg-id=\"KentTurk.tr@SD\" tvg-logo=\"https://i.imgur.com/FQKPjsm.png\" group-title=\"General\",Kent Türk TV (1080p) [Not 24/7]",
-    "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
-  },
-  {
     "name": "Konya Olay TV (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"KonyaOlayTV.tr@SD\" tvg-logo=\"https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg\" group-title=\"General\",Konya Olay TV (720p)",
     "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
@@ -2453,11 +2448,6 @@
     "name": "KURDISTAN 24",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cXd3MBV/symkr.png\",KURDISTAN 24",
     "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
-  },
-  {
-    "name": "KURDISTAN TV",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cXd3MBV/symkr.png\",KURDISTAN TV",
-    "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
   },
   {
     "name": "KURDSAT",
