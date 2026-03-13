@@ -440,14 +440,29 @@
     "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
   },
   {
+    "name": "Deniz Postası TV (720p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"DenizPostasiTV.tr@SD\" tvg-logo=\"https://i.imgur.com/Mm8hdfx.png\" group-title=\"General\",Deniz Postası TV (720p) [Not 24/7]",
+    "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+  },
+  {
     "name": "DHA (720p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"DHA.tr@SD\" tvg-logo=\"https://i.imgur.com/VZhag2x.png\" group-title=\"News\",DHA (720p) [Not 24/7]",
     "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
   },
   {
+    "name": "DİM TV (720p) [Geo-blocked]",
+    "extinf": "#EXTINF:-1 tvg-id=\"DimTV.tr@SD\" tvg-logo=\"https://i.imgur.com/X4QFDhk.png\" group-title=\"News\",DİM TV (720p) [Geo-blocked]",
+    "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+  },
+  {
     "name": "Diyanet TV (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"DiyanetTV.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png\" group-title=\"Religious\",Diyanet TV (1080p)",
     "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+  },
+  {
+    "name": "Diyar TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiyarTV.tr@SD\" tvg-logo=\"https://i.imgur.com/qWkHjRA.png\" group-title=\"Religious\",Diyar TV (720p)",
+    "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
   },
   {
     "name": "Dost TV (576p)",
@@ -478,6 +493,11 @@
     "name": "ETV Kayseri (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"ETVKayseri.tr@SD\" tvg-logo=\"https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj\" group-title=\"General\",ETV Kayseri (720p)",
     "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
+  },
+  {
+    "name": "ETV Manisa (1080p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"ETVManisa.tr@SD\" tvg-logo=\"https://i.ibb.co/QKXtdkz/sOd3INg.png\" group-title=\"Undefined\",ETV Manisa (1080p) [Not 24/7]",
+    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
   },
   {
     "name": "Euro D (1080p) [Geo-Blocked]",
@@ -698,16 +718,6 @@
     "name": "Persiana Turkiye",
     "extinf": "#EXTINF:-1 tvg-id=\"PersianaTurkiye.fr@SD\" tvg-logo=\"https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png\" group-title=\"Entertainment\",Persiana Turkiye",
     "url": "https://turkhls.persiana.live/hls/stream.m3u8"
-  },
-  {
-    "name": "Power Dance (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PowerDance.tr@SD\" tvg-logo=\"https://i.imgur.com/QpPteBO.png\" group-title=\"Music\",Power Dance (1080p)",
-    "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
-  },
-  {
-    "name": "Power Love (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PowerLove.tr@SD\" tvg-logo=\"https://i.imgur.com/0RzUswR.png\" group-title=\"Music\",Power Love (1080p)",
-    "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
   },
   {
     "name": "Power Turk (1080p) [Not 24/7]",
@@ -1390,11 +1400,6 @@
     "url": "https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8"
   },
   {
-    "name": "NOW (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0DpKtzT/nowtvturk.png\",NOW (backup)",
-    "url": "https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8"
-  },
-  {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
     "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
@@ -1412,12 +1417,12 @@
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8"
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
   },
   {
     "name": "ATV (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/n1SCYqN/atv.png\",ATV (backup)",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8"
   },
   {
     "name": "ATV [youtube-src]",
@@ -1512,7 +1517,7 @@
   {
     "name": "A2 (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/2qrg9QF/a2022.png\",A2 (backup)",
-    "url": "https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8"
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
   },
   {
     "name": "TEVE 2 (backup)",
@@ -1652,11 +1657,6 @@
   {
     "name": "HT SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
-    "url": "https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8"
-  },
-  {
-    "name": "HT SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/F0Tsz1v/htsportr.png\",HT SPOR (backup)",
     "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=Eg7c3jB39Hc&m3u8"
   },
   {
@@ -1673,11 +1673,6 @@
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
-  },
-  {
-    "name": "BIS HABER (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
   },
   {
     "name": "BIS HABER (backup)",
@@ -1713,11 +1708,6 @@
     "name": "A SPOR (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
     "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8"
-  },
-  {
-    "name": "A SPOR (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/xSjB51j/aspor.png\",A SPOR (backup)",
-    "url": "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
   },
   {
     "name": "HT SPOR (backup)",
@@ -1863,11 +1853,6 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
-  },
-  {
-    "name": "SHOW TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
-    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
