@@ -520,11 +520,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
   },
   {
-    "name": "ETV Manisa (1080p) [Not 24/7]",
-    "extinf": "#EXTINF:-1 tvg-id=\"ETVManisa.tr@SD\" tvg-logo=\"https://i.ibb.co/QKXtdkz/sOd3INg.png\" group-title=\"Undefined\",ETV Manisa (1080p) [Not 24/7]",
-    "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-  },
-  {
     "name": "Euro D (1080p) [Geo-Blocked]",
     "extinf": "#EXTINF:-1 tvg-id=\"EuroD.tr@SD\" tvg-logo=\"https://i.imgur.com/x9kHsXo.png\" group-title=\"General\",Euro D (1080p) [Geo-Blocked]",
     "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8"
@@ -1515,6 +1510,11 @@
     "url": "https://live.euromediacenter.com/saglikchannel/index.m3u8"
   },
   {
+    "name": "WOMAN KADIN TV",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/DKHDfbr/wmtv.png\",WOMAN KADIN TV",
+    "url": "https://embedlp.b-cdn.net/womantv.m3u8"
+  },
+  {
     "name": "MOR TV",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/qRsfyb2/tvmor.png\",MOR TV",
     "url": "https://live.euromediacenter.com/tvmor/index.m3u8"
@@ -1717,16 +1717,6 @@
   {
     "name": "BIS HABER (backup)",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
-  },
-  {
-    "name": "BIS HABER (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
-    "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
-  },
-  {
-    "name": "BIS HABER (backup)",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/BfM21nC/beinhaber.png\",BIS HABER (backup)",
     "url": "https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8"
   },
   {
@@ -1908,11 +1898,6 @@
     "name": "KANAL 7 AVRUPA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/cDxKJy1/k7avr1.png\",KANAL 7 AVRUPA",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
-  },
-  {
-    "name": "SHOW TÜRK",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/WvhGGP0/showturk1.png\",SHOW TÜRK",
-    "url": "https://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
   },
   {
     "name": "EURO D",
@@ -2198,11 +2183,6 @@
     "name": "KANAL 32 ISPARTA",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KANAL 32 ISPARTA",
     "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
-  },
-  {
-    "name": "KANAL 33 MERSİN",
-    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/mHt7rQf/Tryerel.png\",KANAL 33 MERSİN",
-    "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
   },
   {
     "name": "KANAL 34 İSTANBUL",
