@@ -310,11 +310,6 @@
     "url": "https://raphls.persiana.live/hls/stream.m3u8"
   },
   {
-    "name": "Press TV French (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PressTVFrench.ir@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png\" group-title=\"News\",Press TV French (1080p)",
-    "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
-  },
-  {
     "name": "PRO Sport International",
     "extinf": "#EXTINF:-1 tvg-id=\"PROSportInternational.my@SD\" tvg-logo=\"\" group-title=\"Sports\",PRO Sport International",
     "url": "https://proshls.wns.live/hls/stream.m3u8"
@@ -1668,6 +1663,11 @@
     "name": "TJK TV [geo-blocked]",
     "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/0Yt6jbg/tjk.png\",TJK TV [geo-blocked]",
     "url": "http://tjktv-live.tjk.org/tjktv.m3u8"
+  },
+  {
+    "name": "TAY TV",
+    "extinf": "#EXTINF:-1 tvg-logo=\"https://i.ibb.co/J5QjKLt/tay22.png\",TAY TV",
+    "url": "http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
   },
   {
     "name": "TRT EBA TV",
