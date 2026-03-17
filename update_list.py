@@ -26,7 +26,7 @@ STREAM_TIMEOUT = 8
 
 OUTPUT_FILE = "live_list.m3u"
 OUTPUT_JSON = "live_channels.json"
-
+MAX_LINKS_PER_CHANNEL = 2  # لینک اصلی + backup
 
 # ==============================
 # FETCH PLAYLIST
@@ -44,26 +44,20 @@ def fetch_playlist(url):
         print(f"[ERROR] Fetch playlist {url}: {e}")
         return None
 
-
 # ==============================
 # CHECK STREAM
 # ==============================
 def is_stream_alive(url):
     try:
-        # HEAD first (lighter)
         r = requests.head(url, headers=HEADERS, timeout=STREAM_TIMEOUT, allow_redirects=True)
         if r.status_code in (200, 206):
             return True
-
-        # Fallback GET if HEAD fails
         r = requests.get(url, headers=HEADERS, timeout=STREAM_TIMEOUT, stream=True, allow_redirects=True)
         if r.status_code in (200, 206):
             return True
-
         return False
     except requests.RequestException:
-        return False  # crash-free
-
+        return False
 
 # ==============================
 # PARSE M3U
@@ -71,7 +65,6 @@ def is_stream_alive(url):
 def parse_m3u(text):
     channels = []
     lines = text.splitlines()
-
     for i in range(len(lines)):
         line = lines[i].strip()
         if line.startswith("#EXTINF"):
@@ -86,18 +79,38 @@ def parse_m3u(text):
                     })
     return channels
 
+# ==============================
+# NORMALIZE NAME
+# ==============================
+def normalize_name(name):
+    return name.strip().lower()
+
+# ==============================
+# SIMPLE GROUP DETECTION
+# ==============================
+def detect_group(name, url):
+    name_low = name.lower()
+    url_low = url.lower()
+    if "iran" in url_low or "ir" in url_low or "persian" in name_low:
+        return "🇮🇷 IRAN"
+    if "turk" in name_low or "tr" in url_low:
+        return "🇹🇷 TURKEY"
+    if any(x in name_low for x in ["movie", "film", "cinema"]):
+        return "🎬 MOVIES"
+    if any(x in name_low for x in ["news", "khabar"]):
+        return "📰 NEWS"
+    return "🌍 OTHER"
 
 # ==============================
 # MAIN
 # ==============================
 def main():
-    all_live_channels = []
+    channels_dict = {}  # key=name, value=list of links
 
     for playlist_url in PLAYLIST_URLS:
         playlist_text = fetch_playlist(playlist_url)
         if not playlist_text:
             continue
-
         channels = parse_m3u(playlist_text)
         print(f"Found {len(channels)} channels in {playlist_url}")
 
@@ -106,15 +119,32 @@ def main():
                 print(f"Checking: {channel['name']}")
                 if is_stream_alive(channel["url"]):
                     print(f"  ✔ LIVE")
-                    all_live_channels.append(channel)
+                    name = normalize_name(channel["name"])
+                    if name not in channels_dict:
+                        channels_dict[name] = []
+                    # فقط حداکثر MAX_LINKS_PER_CHANNEL لینک نگه داشته شود
+                    if len(channels_dict[name]) < MAX_LINKS_PER_CHANNEL:
+                        channels_dict[name].append(channel)
                 else:
                     print(f"  ✖ DEAD")
-                time.sleep(0.05)  # small delay
+                time.sleep(0.05)
             except Exception as e:
                 print(f"  [ERROR] Stream check failed for {channel['name']}: {e}")
-                continue  # crash-free
+                continue
 
-    # Write cleaned M3U
+    # ==============================
+    # ADD GROUPS
+    # ==============================
+    all_live_channels = []
+    for ch_list in channels_dict.values():
+        for ch in ch_list:
+            group = detect_group(ch["name"], ch["url"])
+            ch["extinf"] = f'#EXTINF:-1 group-title="{group}",{ch["name"]}'
+            all_live_channels.append(ch)
+
+    # ==============================
+    # WRITE CLEANED M3U
+    # ==============================
     try:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
@@ -125,7 +155,9 @@ def main():
     except Exception as e:
         print(f"[ERROR] Writing M3U failed: {e}")
 
-    # Optional JSON output
+    # ==============================
+    # WRITE JSON
+    # ==============================
     try:
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
             json.dump(all_live_channels, f, indent=2, ensure_ascii=False)
@@ -135,7 +167,6 @@ def main():
 
     print(f"Total live channels: {len(all_live_channels)}")
     print("Script completed successfully.")
-
 
 if __name__ == "__main__":
     main()
