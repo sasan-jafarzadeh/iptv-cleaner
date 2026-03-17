@@ -1,5 +1,4 @@
 import requests
-import time
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -24,7 +23,6 @@ PLAYLIST_TIMEOUT = 15
 STREAM_TIMEOUT = 8
 OUTPUT_FILE = "live_list.m3u"
 OUTPUT_JSON = "live_channels.json"
-
 MAX_THREADS = 20  # تعداد همزمان برای سرعت
 
 # ==============================
@@ -65,11 +63,19 @@ def parse_m3u(text):
         if line.startswith("#EXTINF") and i+1 < len(lines):
             url = lines[i+1].strip()
             if url.startswith("http"):
+                # اسم کانال و لوگو از extinf اصلی حفظ می‌شود
                 channels.append({
+                    "name": line.split(",")[-1].strip() or "Unknown",
                     "extinf": line,
                     "url": url
                 })
     return channels
+
+# ==============================
+# NORMALIZE NAME
+# ==============================
+def normalize_name(name):
+    return name.strip().lower()
 
 # ==============================
 # MAIN
@@ -77,13 +83,14 @@ def parse_m3u(text):
 def main():
     all_channels = []
 
+    # جمع‌آوری همه کانال‌ها
     for url in PLAYLIST_URLS:
         text = fetch_playlist(url)
         if text:
             all_channels.extend(parse_m3u(text))
 
     # ==============================
-    # MULTI-THREAD CHECK
+    # MULTI-THREAD STREAM CHECK
     # ==============================
     def check_channel(ch):
         if is_stream_alive(ch["url"]):
@@ -91,15 +98,17 @@ def main():
         return None
 
     live_channels = []
-    seen_urls = set()
+    seen_names = set()  # تکراری‌ها بر اساس اسم کانال
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         futures = {executor.submit(check_channel, ch): ch for ch in all_channels}
         for future in as_completed(futures):
             ch = future.result()
-            if ch and ch["url"] not in seen_urls:
-                live_channels.append(ch)
-                seen_urls.add(ch["url"])
+            if ch:
+                name_norm = normalize_name(ch["name"])
+                if name_norm not in seen_names:
+                    live_channels.append(ch)
+                    seen_names.add(name_norm)
 
     # ==============================
     # WRITE M3U
