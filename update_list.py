@@ -107,18 +107,23 @@ def main():
             ch = future.result()
             if ch: checked_channels.append(ch)
 
-    # Dedup + highest resolution
+    # Dedup + highest resolution + first alive link
     unique_channels = {}
     for ch in checked_channels:
         try:
+            # اگر tvg-id موجود باشد استفاده شود
             key = ch["tvg-id"].group(1).lower() if ch["tvg-id"] else normalize_name(ch["name"])
         except: key = normalize_name(ch["name"])
         res = get_resolution(ch["name"])
+        # اگر کلید موجود نبود اضافه کن، اگر بود رزولوشن بالاتر جایگزین شود
         if key not in unique_channels:
             unique_channels[key] = ch
         else:
             existing_res = get_resolution(unique_channels[key]["name"])
-            if res > existing_res: unique_channels[key] = ch
+            # اگر رزولوشن جدید بالاتر باشد جایگزین شود
+            if res > existing_res:
+                unique_channels[key] = ch
+            # اگر رزولوشن برابر باشد، لینک موجود نگه داشته می‌شود (اولین زنده)
 
     final_channels = list(unique_channels.values())
 
