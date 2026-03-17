@@ -61,15 +61,18 @@ def parse_m3u(text):
     lines = text.splitlines()
     for i, line in enumerate(lines):
         line = line.strip()
-        if line.startswith("#EXTINF") and i+1 < len(lines):
-            url = lines[i+1].strip()
+        if line.startswith("#EXTINF") and i + 1 < len(lines):
+            url = lines[i + 1].strip()
             if url.startswith("http"):
-                # نام کانال و لوگو و گروه از extinf اصلی حفظ می‌شود
+                try:
+                    tvg_id_match = re.search(r'tvg-id="([^"]+)"', line)
+                except:
+                    tvg_id_match = None
                 channels.append({
                     "name": line.split(",")[-1].strip() or "Unknown",
                     "extinf": line,
                     "url": url,
-                    "tvg-id": re.search(r'tvg-id="([^"]+)"', line),
+                    "tvg-id": tvg_id_match
                 })
     return channels
 
@@ -78,7 +81,6 @@ def parse_m3u(text):
 # ==============================
 def normalize_name(name):
     name = name.lower()
-    # حذف HD/SD و رزولوشن
     name = re.sub(r'\b(hd|sd|720p|1080p|2160p|4k)\b', '', name)
     name = re.sub(r'\s+', ' ', name)
     return name.strip()
@@ -119,18 +121,20 @@ def main():
                 checked_channels.append(ch)
 
     # ==============================
-    # DEDUP + KEEP HIGHEST RESOLUTION
+    # DEDUP + KEEP HIGHEST RESOLUTION (SAFE)
     # ==============================
     unique_channels = {}
 
     for ch in checked_channels:
-        # کلید اصلی: tvg-id اگر موجود باشد، وگرنه نام نرمال‌شده
-        key = ch["tvg-id"].group(1).lower() if ch["tvg-id"] else normalize_name(ch["name"])
+        try:
+            key = ch["tvg-id"].group(1).lower() if ch["tvg-id"] else normalize_name(ch["name"])
+        except:
+            key = normalize_name(ch["name"])
+
         res = get_resolution(ch["name"])
         if key not in unique_channels:
             unique_channels[key] = ch
         else:
-            # اگر رزولوشن بالاتر باشد جایگزین می‌کنیم
             existing_res = get_resolution(unique_channels[key]["name"])
             if res > existing_res:
                 unique_channels[key] = ch
