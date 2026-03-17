@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ==============================
@@ -63,11 +64,12 @@ def parse_m3u(text):
         if line.startswith("#EXTINF") and i+1 < len(lines):
             url = lines[i+1].strip()
             if url.startswith("http"):
-                # اسم کانال و لوگو از extinf اصلی حفظ می‌شود
+                # نام کانال و لوگو و گروه از extinf اصلی حفظ می‌شود
                 channels.append({
                     "name": line.split(",")[-1].strip() or "Unknown",
                     "extinf": line,
-                    "url": url
+                    "url": url,
+                    "tvg-id": re.search(r'tvg-id="([^"]+)"', line),
                 })
     return channels
 
@@ -75,7 +77,18 @@ def parse_m3u(text):
 # NORMALIZE NAME
 # ==============================
 def normalize_name(name):
-    return name.strip().lower()
+    name = name.lower()
+    # حذف HD/SD و رزولوشن
+    name = re.sub(r'\b(hd|sd|720p|1080p|2160p|4k)\b', '', name)
+    name = re.sub(r'\s+', ' ', name)
+    return name.strip()
+
+# ==============================
+# EXTRACT RESOLUTION
+# ==============================
+def get_resolution(name):
+    match = re.search(r'(\d{3,4})p', name.lower())
+    return int(match.group(1)) if match else 0
 
 # ==============================
 # MAIN
@@ -97,34 +110,48 @@ def main():
             return ch
         return None
 
-    live_channels = []
-    seen_names = set()  # تکراری‌ها بر اساس اسم کانال
-
+    checked_channels = []
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         futures = {executor.submit(check_channel, ch): ch for ch in all_channels}
         for future in as_completed(futures):
             ch = future.result()
             if ch:
-                name_norm = normalize_name(ch["name"])
-                if name_norm not in seen_names:
-                    live_channels.append(ch)
-                    seen_names.add(name_norm)
+                checked_channels.append(ch)
+
+    # ==============================
+    # DEDUP + KEEP HIGHEST RESOLUTION
+    # ==============================
+    unique_channels = {}
+
+    for ch in checked_channels:
+        # کلید اصلی: tvg-id اگر موجود باشد، وگرنه نام نرمال‌شده
+        key = ch["tvg-id"].group(1).lower() if ch["tvg-id"] else normalize_name(ch["name"])
+        res = get_resolution(ch["name"])
+        if key not in unique_channels:
+            unique_channels[key] = ch
+        else:
+            # اگر رزولوشن بالاتر باشد جایگزین می‌کنیم
+            existing_res = get_resolution(unique_channels[key]["name"])
+            if res > existing_res:
+                unique_channels[key] = ch
+
+    final_channels = list(unique_channels.values())
 
     # ==============================
     # WRITE M3U
     # ==============================
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for ch in live_channels:
+        for ch in final_channels:
             f.write(f"{ch['extinf']}\n{ch['url']}\n")
 
     # ==============================
     # WRITE JSON
     # ==============================
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(live_channels, f, indent=2, ensure_ascii=False)
+        json.dump(final_channels, f, indent=2, ensure_ascii=False)
 
-    print(f"Total live channels: {len(live_channels)}")
+    print(f"Total live channels: {len(final_channels)}")
     print("Script completed successfully.")
 
 if __name__ == "__main__":
