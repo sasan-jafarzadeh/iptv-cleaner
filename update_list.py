@@ -1,6 +1,5 @@
 import requests
 import json
-import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ==============================
@@ -14,12 +13,17 @@ PLAYLIST_URLS = [
     "https://iptv-org.github.io/iptv/languages/fas.m3u"
 ]
 
-HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "*/*", "Connection": "keep-alive"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+}
+
 PLAYLIST_TIMEOUT = 15
 STREAM_TIMEOUT = 8
 OUTPUT_FILE = "live_list.m3u"
 OUTPUT_JSON = "live_channels.json"
-MAX_THREADS = 20
+MAX_THREADS = 20  # تعداد همزمان برای سرعت
 
 # ==============================
 # FETCH PLAYLIST
@@ -29,9 +33,9 @@ def fetch_playlist(url):
         r = requests.get(url, headers=HEADERS, timeout=PLAYLIST_TIMEOUT, allow_redirects=True)
         if r.status_code == 200 and "#EXTM3U" in r.text:
             return r.text
+        return None
     except:
-        pass
-    return None
+        return None
 
 # ==============================
 # CHECK STREAM
@@ -39,9 +43,12 @@ def fetch_playlist(url):
 def is_stream_alive(url):
     try:
         r = requests.head(url, headers=HEADERS, timeout=STREAM_TIMEOUT, allow_redirects=True)
-        if r.status_code in (200, 206): return True
+        if r.status_code in (200, 206):
+            return True
         r = requests.get(url, headers=HEADERS, timeout=STREAM_TIMEOUT, stream=True, allow_redirects=True)
-        return r.status_code in (200, 206)
+        if r.status_code in (200, 206):
+            return True
+        return False
     except:
         return False
 
@@ -52,96 +59,72 @@ def parse_m3u(text):
     channels = []
     lines = text.splitlines()
     for i, line in enumerate(lines):
-        try:
-            line = line.strip()
-            if line.startswith("#EXTINF") and i + 1 < len(lines):
-                url = lines[i + 1].strip()
-                if url.startswith("http"):
-                    try: tvg_id = re.search(r'tvg-id="([^"]+)"', line)
-                    except: tvg_id = None
-                    channels.append({"name": line.split(",")[-1].strip() or "Unknown",
-                                     "extinf": line,
-                                     "url": url,
-                                     "tvg-id": tvg_id})
-        except: continue
+        line = line.strip()
+        if line.startswith("#EXTINF") and i+1 < len(lines):
+            url = lines[i+1].strip()
+            if url.startswith("http"):
+                # اسم کانال و لوگو از extinf اصلی حفظ می‌شود
+                channels.append({
+                    "name": line.split(",")[-1].strip() or "Unknown",
+                    "extinf": line,
+                    "url": url
+                })
     return channels
 
 # ==============================
 # NORMALIZE NAME
 # ==============================
 def normalize_name(name):
-    try:
-        name = name.lower()
-        name = re.sub(r'\b(hd|sd|720p|1080p|2160p|4k)\b', '', name)
-        name = re.sub(r'\s+', ' ', name)
-        return name.strip()
-    except: return name
-
-# ==============================
-# EXTRACT RESOLUTION
-# ==============================
-def get_resolution(name):
-    try:
-        match = re.search(r'(\d{3,4})p', name.lower())
-        return int(match.group(1)) if match else 0
-    except: return 0
+    return name.strip().lower()
 
 # ==============================
 # MAIN
 # ==============================
 def main():
     all_channels = []
+
+    # جمع‌آوری همه کانال‌ها
     for url in PLAYLIST_URLS:
         text = fetch_playlist(url)
-        if text: all_channels.extend(parse_m3u(text))
+        if text:
+            all_channels.extend(parse_m3u(text))
 
-    # Multi-thread check
-    checked_channels = []
-    def check(ch):
-        try: return ch if is_stream_alive(ch["url"]) else None
-        except: return None
+    # ==============================
+    # MULTI-THREAD STREAM CHECK
+    # ==============================
+    def check_channel(ch):
+        if is_stream_alive(ch["url"]):
+            return ch
+        return None
+
+    live_channels = []
+    seen_names = set()  # تکراری‌ها بر اساس اسم کانال
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        futures = {executor.submit(check, ch): ch for ch in all_channels}
+        futures = {executor.submit(check_channel, ch): ch for ch in all_channels}
         for future in as_completed(futures):
             ch = future.result()
-            if ch: checked_channels.append(ch)
+            if ch:
+                name_norm = normalize_name(ch["name"])
+                if name_norm not in seen_names:
+                    live_channels.append(ch)
+                    seen_names.add(name_norm)
 
-    # Dedup + highest resolution + first alive link
-    unique_channels = {}
-    for ch in checked_channels:
-        try:
-            # اگر tvg-id موجود باشد استفاده شود
-            key = ch["tvg-id"].group(1).lower() if ch["tvg-id"] else normalize_name(ch["name"])
-        except: key = normalize_name(ch["name"])
-        res = get_resolution(ch["name"])
-        # اگر کلید موجود نبود اضافه کن، اگر بود رزولوشن بالاتر جایگزین شود
-        if key not in unique_channels:
-            unique_channels[key] = ch
-        else:
-            existing_res = get_resolution(unique_channels[key]["name"])
-            # اگر رزولوشن جدید بالاتر باشد جایگزین شود
-            if res > existing_res:
-                unique_channels[key] = ch
-            # اگر رزولوشن برابر باشد، لینک موجود نگه داشته می‌شود (اولین زنده)
+    # ==============================
+    # WRITE M3U
+    # ==============================
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for ch in live_channels:
+            f.write(f"{ch['extinf']}\n{ch['url']}\n")
 
-    final_channels = list(unique_channels.values())
+    # ==============================
+    # WRITE JSON
+    # ==============================
+    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+        json.dump(live_channels, f, indent=2, ensure_ascii=False)
 
-    # Write M3U
-    try:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n")
-            for ch in final_channels:
-                f.write(f"{ch['extinf']}\n{ch['url']}\n")
-    except: pass
-
-    # Write JSON
-    try:
-        with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-            json.dump(final_channels, f, indent=2, ensure_ascii=False)
-    except: pass
-
-    print(f"Total live channels: {len(final_channels)}")
+    print(f"Total live channels: {len(live_channels)}")
     print("Script completed successfully.")
 
 if __name__ == "__main__":
