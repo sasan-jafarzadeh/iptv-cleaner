@@ -12,8 +12,7 @@ PLAYLIST_URLS = [
     "https://onureroz.com/indirmeler/turk/index.m3u",
     "https://iptv-org.github.io/iptv/languages/fas.m3u",      # بهترین برای زبان فارسی
     "https://iptv-org.github.io/iptv/countries/ir.m3u",       # کشور ایران (IRIB و ...)
-    "https://raw.githubusercontent.com/hodhodfarsi/iptv-for-iran/refs/heads/main/ir2.m3u",
-    "https://sasan.jafarzadeh-sasan-tru.workers.dev/playlist.mu3"
+    "https://raw.githubusercontent.com/hodhodfarsi/iptv-for-iran/refs/heads/main/ir2.m3u"
 ]
 
 HEADERS = {
