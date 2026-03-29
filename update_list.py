@@ -14,11 +14,9 @@ PLAYLIST_URLS = [
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0",
     "Accept": "*/*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Connection": "keep-alive",
-    "Referer": "https://www.google.com/",
+    "Connection": "keep-alive"
 }
 
 PLAYLIST_TIMEOUT = 15
@@ -41,71 +39,64 @@ def fetch_playlist(url):
         return None
 
 # ==============================
-# CHECK STREAM (ALL FORMAT SUPPORT)
+# CHECK STREAM (HLS-aware)
 # ==============================
 
 def is_stream_alive(url):
     try:
-        r = requests.get(
-            url,
-            headers=HEADERS,
-            timeout=STREAM_TIMEOUT,
-            stream=True,
-            allow_redirects=True
+        url_lower = url.lower()
+        is_hls = (
+            ".m3u8" in url_lower or
+            "/stream?" in url_lower or
+            "playlist.m3u" in url_lower or
+            "/segment?" in url_lower
         )
 
-        if r.status_code not in (200, 206):
+        if is_hls:
+            r = requests.get(url, headers=HEADERS, timeout=STREAM_TIMEOUT, allow_redirects=True)
+            if r.status_code in (200, 206):
+                try:
+                    content = r.content[:1000].decode("utf-8", errors="ignore")
+                except:
+                    content = ""
+                if "#EXTM3U" in content or "#EXT-X-" in content or "#EXTINF" in content:
+                    return True
+                ct = r.headers.get("content-type", "")
+                if "mpegurl" in ct or "m3u" in ct:
+                    return True
             return False
-
-        ct = r.headers.get("content-type", "").lower()
-
-        # انواع قابل قبول IPTV
-        valid_types = [
-            "video", "audio",
-            "mpegurl", "m3u",
-            "mp2t", "mp4", "webm",
-            "ogg", "dash", "octet-stream"
-        ]
-
-        if any(v in ct for v in valid_types):
-            return True
-
-        # fallback برای HLS
-        try:
-            chunk = r.raw.read(512, decode_content=True)
-            if b"#EXTM3U" in chunk or b"#EXT-X-" in chunk:
+        else:
+            r = requests.head(url, headers=HEADERS, timeout=STREAM_TIMEOUT, allow_redirects=True)
+            if r.status_code in (200, 206):
                 return True
-        except:
-            pass
-
-        return True  # بعضی سرورها content-type درست نمی‌دن
-
+            r = requests.get(url, headers=HEADERS, timeout=STREAM_TIMEOUT, stream=True, allow_redirects=True)
+            if r.status_code in (200, 206):
+                return True
+            return False
     except:
         return False
 
 # ==============================
-# PARSE M3U (ROBUST)
+# PARSE M3U
 # ==============================
 
 def parse_m3u(text):
     channels = []
-    lines = [l.strip() for l in text.splitlines() if l.strip()]
-
-    for i in range(len(lines)):
-        if lines[i].startswith("#EXTINF"):
-            if i + 1 < len(lines):
-                url = lines[i + 1]
-                if url.startswith("http"):
-                    name = lines[i].split(",")[-1].strip() or "Unknown"
-                    channels.append({
-                        "name": name,
-                        "extinf": lines[i],
-                        "url": url
-                    })
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if line.startswith("#EXTINF") and i + 1 < len(lines):
+            url = lines[i + 1].strip()
+            if url.startswith("http"):
+                channels.append({
+                    "name":   line.split(",")[-1].strip() or "Unknown",
+                    "extinf": line,
+                    "url":    url
+                })
     return channels
 
 # ==============================
-# NORMALIZE NAME (UNCHANGED LOGIC)
+# NORMALIZE NAME
 # ==============================
 
 def normalize_name(name):
@@ -136,7 +127,7 @@ def main():
         return None
 
     live_channels = []
-    seen_names = set()  # 👈 همون منطق خودت
+    seen_names = set()
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         futures = {executor.submit(check_channel, ch): ch for ch in all_channels}
@@ -144,8 +135,6 @@ def main():
             ch = future.result()
             if ch:
                 name_norm = normalize_name(ch["name"])
-
-                # 👇 منطق duplicate دست نخورده
                 if name_norm not in seen_names:
                     live_channels.append(ch)
                     seen_names.add(name_norm)
