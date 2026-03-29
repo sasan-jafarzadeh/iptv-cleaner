@@ -7,10 +7,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ==============================
 
 PLAYLIST_URLS = [
+"https://iptv-org.github.io/iptv/languages/tur.m3u",
     "https://iptv-org.github.io/iptv/countries/tr.m3u",
     "https://onureroz.com/indirmeler/turk/index.m3u",
-    "https://raw.githubusercontent.com/hodhodfarsi/iptv-for-iran/refs/heads/main/ir2.m3u",
-    "https://iptv-org.github.io/iptv/languages/fas.m3u"
+    "https://iptv-org.github.io/iptv/languages/fas.m3u",      # بهترین برای زبان فارسی
+    "https://iptv-org.github.io/iptv/countries/ir.m3u",       # کشور ایران (IRIB و ...)
+    "https://raw.githubusercontent.com/hodhodfarsi/iptv-for-iran/refs/heads/main/ir2.m3u"
 ]
 
 HEADERS = {
