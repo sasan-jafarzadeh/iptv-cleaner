@@ -18,8 +18,10 @@ PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_turkey.m3u8",  # Free-TV: منتخب رسمی ترکیه (16 کانال)
     "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_iran.m3u8",    # Free-TV: منتخب ایران (26 کانال)
     "https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/kanal_listesi.m3u",         # لیست به‌روز ترکی با لینک‌های فعلی ercdn و TRT (45 کانال)
-    "https://raw.githubusercontent.com/hesenrustamli/az-iptv/main/playlist.m3u",             # پروژه مشابه خودت: آپدیت روزانه + چک سلامت؛ ترکی و آذری (108 کانال)
-    "https://sasan.jafarzadeh-sasan-tru.workers.dev/"                                        # لیست ترکی خودت روی کلودفلر ورکر (249 کانال)
+    "https://raw.githubusercontent.com/hesenrustamli/az-iptv/main/playlist.m3u",   # پروژه مشابه خودت: آپدیت روزانه + چک سلامت؛ ترکی و آذری (108 کانال)
+    "https://raw.githubusercontent.com/hesenrustamli/az-iptv/main/playlist.m3u",
+"https://iranlive.jafarzadeh-sasan-tru.workers.dev/",
+"https://sasan.jafarzadeh-sasan-tru.workers.dev/"                                        # لیست ترکی خودت روی کلودفلر ورکر (249 کانال)
 ]
 
 HEADERS = {
