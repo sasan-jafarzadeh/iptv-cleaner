@@ -772,13 +772,6 @@
     "alive": true
   },
   {
-    "name": "TRT Genc (1440p) [Geo-blocked]",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTGenc.tr@SD\" tvg-logo=\"https://i.imgur.com/fCHQYWS.png\" group-title=\"Culture;General\",TRT Genc (1440p) [Geo-blocked]",
-    "opts": [],
-    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
-    "alive": true
-  },
-  {
     "name": "TRT Haber (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTHaber.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png\" group-title=\"News\",TRT Haber (720p)",
     "opts": [],
@@ -2138,6 +2131,13 @@
     "extinf": "#EXTINF:-1 Yedek1=\"http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/15181/index.m3u8\" Yedek2=\"https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png\" group-title=\"ULUSAL\",NDR",
     "opts": [],
     "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+    "alive": true
+  },
+  {
+    "name": "MAKKAH TV",
+    "extinf": "#EXTINF:-1 Yedek1=\"https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8\" Yedek2=\"https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s\" group-title=\"ULUSAL\",MAKKAH TV",
+    "opts": [],
+    "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
     "alive": true
   },
   {
