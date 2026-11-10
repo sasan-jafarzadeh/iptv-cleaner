@@ -77,6 +77,13 @@
     "alive": true
   },
   {
+    "name": "ATV (Turkiye) (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ATV.tr@SD\" tvg-logo=\"https://i.imgur.com/HyVUwFC.png\" group-title=\"General\",ATV (Turkiye) (1080p)",
+    "opts": [],
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+    "alive": true
+  },
+  {
     "name": "ATV Alanya (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"ATVAlanya.tr@SD\" tvg-logo=\"https://i.imgur.com/bUwarR0.png\" group-title=\"General\",ATV Alanya (1080p)",
     "opts": [],
@@ -609,6 +616,15 @@
     "alive": true
   },
   {
+    "name": "Spacetoon Turkey (720p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"SpacetoonTurkey.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png\" http-referrer=\"https://spacetoon.com.tr/\" group-title=\"Animation;Kids\",Spacetoon Turkey (720p) [Not 24/7]",
+    "opts": [
+      "#EXTVLCOPT:http-referrer=https://spacetoon.com.tr/"
+    ],
+    "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+    "alive": true
+  },
+  {
     "name": "Star TV (Turkiye) (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"StarTV.tr@SD\" tvg-logo=\"https://i.imgur.com/9O3DHRB.png\" group-title=\"Undefined\",Star TV (Turkiye) (720p)",
     "opts": [],
@@ -634,6 +650,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TBMMTV.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png\" group-title=\"Undefined\",TBMM TV (720p)",
     "opts": [],
     "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+    "alive": true
+  },
+  {
+    "name": "Tele 1 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
     "alive": true
   },
   {
@@ -851,13 +874,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"AlmahriahTV.tr@SD\" tvg-logo=\"https://i.imgur.com/GgEeTNr.png\" group-title=\"News\",Almahriah TV (576p)",
     "opts": [],
     "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
-    "alive": true
-  },
-  {
-    "name": "ATV (Turkiye) (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"ATV.tr@SD\" tvg-logo=\"https://i.imgur.com/HyVUwFC.png\" group-title=\"General\",ATV (Turkiye) (1080p)",
-    "opts": [],
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
     "alive": true
   },
   {
@@ -1691,6 +1707,13 @@
     "alive": true
   },
   {
+    "name": "TELE1",
+    "extinf": "#EXTINF:-1,TELE1",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
+    "alive": true
+  },
+  {
     "name": "BENGÜ TÜRK",
     "extinf": "#EXTINF:-1,BENGÜ TÜRK",
     "opts": [],
@@ -1940,13 +1963,6 @@
     "extinf": "#EXTINF:-1,DERiN TV",
     "opts": [],
     "url": "https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8",
-    "alive": true
-  },
-  {
-    "name": "DİM TV",
-    "extinf": "#EXTINF:-1,DİM TV",
-    "opts": [],
-    "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8",
     "alive": true
   },
   {
@@ -3581,6 +3597,13 @@
     "alive": true
   },
   {
+    "name": "ATV",
+    "extinf": "#EXTINF:-1 tvg-id=\"Atv.tr\" tvg-name=\"ATV\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787345719197-removebg-preview.png\" group-title=\"TURKSAT 6A\", ATV",
+    "opts": [],
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+    "alive": true
+  },
+  {
     "name": "KANAL D HD",
     "extinf": "#EXTINF:-1 tvg-id=\"Kanald.tr\" tvg-name=\"Kanal D\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/kanal_d_logo_freelogovectors.net_-4290191117.png\" group-title=\"TURKSAT 6A\", KANAL D HD",
     "opts": [],
@@ -4035,13 +4058,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"QazSport.kz\" tvg-logo=\"https://i.imgur.com/UDJ0P5Q.png\" group-title=\"İdman\",QazSport (480p)",
     "opts": [],
     "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TVP Sport (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVPSport.pl\" tvg-logo=\"https://i.imgur.com/JUZDOCO.png\" group-title=\"İdman\",TVP Sport (1080p)",
-    "opts": [],
-    "url": "https://tvpi.travny.workers.dev/tvpsport.m3u8",
     "alive": true
   },
   {
