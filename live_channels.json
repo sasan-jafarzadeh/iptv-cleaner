@@ -238,13 +238,6 @@
     "alive": true
   },
   {
-    "name": "Finans Turk TV (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"FinansTurkTV.tr@SD\" tvg-logo=\"https://i.ibb.co/wBwmB1T/iY0osc7.png\" group-title=\"News\",Finans Turk TV (720p)",
-    "opts": [],
-    "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-    "alive": true
-  },
-  {
     "name": "Flash Haber TV",
     "extinf": "#EXTINF:-1 tvg-id=\"FlashHaberTV.tr@SD\" tvg-logo=\"\" group-title=\"News\",Flash Haber TV",
     "opts": [],
@@ -653,6 +646,13 @@
     "alive": true
   },
   {
+    "name": "Tele 1 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "alive": true
+  },
+  {
     "name": "Tempo TV (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TempoTV.tr@SD\" tvg-logo=\"https://i.imgur.com/tZpx32y.png\" group-title=\"Undefined\",Tempo TV (720p)",
     "opts": [],
@@ -692,6 +692,20 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TonTV.tr@SD\" tvg-logo=\"https://i.imgur.com/f0Soeob.png\" group-title=\"Undefined\",Ton TV (720p) [Not 24/7]",
     "opts": [],
     "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT 1 (1440p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRT1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png\" group-title=\"Undefined\",TRT 1 (1440p)",
+    "opts": [],
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT 2 (1440p) [Geo-blocked]",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRT2.tr@SD\" tvg-logo=\"https://i.imgur.com/iOCQdyD.png\" group-title=\"Undefined\",TRT 2 (1440p) [Geo-blocked]",
+    "opts": [],
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -811,13 +825,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TVDen.tr@SD\" tvg-logo=\"https://i.imgur.com/Uhg95Ze.png\" group-title=\"Undefined\",TV Den (576p) [Not 24/7]",
     "opts": [],
     "url": "http://canli.tvden.com.tr/hls/live.m3u8",
-    "alive": true
-  },
-  {
-    "name": "Urfa Natik TV (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"UrfaNatikTV.tr@SD\" tvg-logo=\"https://i.imgur.com/8KO0uxn.png\" group-title=\"Undefined\",Urfa Natik TV (720p)",
-    "opts": [],
-    "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
     "alive": true
   },
   {
@@ -1308,13 +1315,6 @@
     "alive": true
   },
   {
-    "name": "UR FANATiK TV",
-    "extinf": "#EXTINF:-1,UR FANATiK TV",
-    "opts": [],
-    "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
-    "alive": true
-  },
-  {
     "name": "VUSLAT TV",
     "extinf": "#EXTINF:-1,VUSLAT TV",
     "opts": [],
@@ -1539,10 +1539,24 @@
     "alive": true
   },
   {
+    "name": "TRT 1",
+    "extinf": "#EXTINF:3228,TRT 1",
+    "opts": [],
+    "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+    "alive": true
+  },
+  {
     "name": "EURO D HD SS",
     "extinf": "#EXTINF:60,EURO D HD SS",
     "opts": [],
     "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT 2",
+    "extinf": "#EXTINF:43200,TRT 2",
+    "opts": [],
+    "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
     "alive": true
   },
   {
@@ -1683,13 +1697,6 @@
     "extinf": "#EXTINF:-1,ÜLKE TV",
     "opts": [],
     "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TELE1",
-    "extinf": "#EXTINF:-1,TELE1",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
     "alive": true
   },
   {
@@ -2033,6 +2040,13 @@
     "extinf": "#EXTINF:1 tvg-id=\"\" tvg-logo=\"http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg\" group-title=\"ÇOCUK\",Zarok TV Kürtçe",
     "opts": [],
     "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT1",
+    "extinf": "#EXTINF:-1 Yedek=\"https://tv-trt1.medya.trt.com.tr/master_1440.m3u8\" Yedek2=\"http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp\" Yedek3=\"https://tv-trt1.medya.trt.com.tr/master_1080.m3u8\" Yedek4=\"http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2293/index.m3u8\" Yedek5=\"http://89.187.191.41/TRT-1-HD-TR/video.m3u8\" Yedek6=\"https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web\" Yedek7=\"https://tv-trt1.medya.trt.com.tr/master_1440.m3u8\" Yedek8=\"https://vavoo.ahkm.workers.dev/?ID=2346924541a665ce2b020a\" Yedek9=\"http://87.246.54.249:8080/TRT1/index.m3u8\" tvg-id=\"TRT1 HD.tr\" Yedek10=\"https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4\" Yedek11=\"https://vavoo.to/vavoo-iptv/play/2346924541149e465206c7\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png\" group-title=\"ULUSAL\",TRT1",
+    "opts": [],
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -3352,6 +3366,20 @@
     "alive": true
   },
   {
+    "name": "TRT 1",
+    "extinf": "#EXTINF:-1 tvg-name=\"TRT 1\" tvg-logo=\"https://i.imgur.com/j786OLG.png\" tvg-id=\"TRT1.tr\" tvg-chno=\"1\" tvg-country=\"TR\" group-title=\"Turkey\",TRT 1",
+    "opts": [],
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT 2 Ⓖ",
+    "extinf": "#EXTINF:-1 tvg-name=\"TRT 2\" tvg-logo=\"https://i.imgur.com/lNWrOE2.png\" tvg-id=\"TRT2.tr\" tvg-chno=\"2\" tvg-country=\"TR\" group-title=\"Turkey\",TRT 2 Ⓖ",
+    "opts": [],
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "alive": true
+  },
+  {
     "name": "TRT Çocuk",
     "extinf": "#EXTINF:-1 tvg-name=\"TRT Çocuk\" tvg-logo=\"https://i.imgur.com/QLFmD6d.png\" tvg-id=\"TRTCocuk.tr\" tvg-chno=\"6\" tvg-country=\"TR\" group-title=\"Turkey\",TRT Çocuk",
     "opts": [],
@@ -3534,6 +3562,13 @@
     "alive": true
   },
   {
+    "name": "TRT1 HD",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRT1.tr\" tvg-name=\"TRT 1\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787343615613-removebg-preview.png\" group-title=\"TURKSAT 6A\", TRT1 HD",
+    "opts": [],
+    "url": "https://tv-trt1.medya.trt.com.tr/master_1440.m3u8",
+    "alive": true
+  },
+  {
     "name": "ATV",
     "extinf": "#EXTINF:-1 tvg-id=\"Atv.tr\" tvg-name=\"ATV\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787345719197-removebg-preview.png\" group-title=\"TURKSAT 6A\", ATV",
     "opts": [],
@@ -3699,6 +3734,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"flashhaber.tr\" tvg-name=\"Flash Haber\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo-v4-49838623.png\" group-title=\"TURKSAT 6A\", FLASH HABER HD",
     "opts": [],
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_1.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT2 HD",
+    "extinf": "#EXTINF:-1 tvg-id=\"Trt2.tr\" tvg-name=\"Trt 2\" tvg-logo=\"https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/192e4d114978259.604668a328a66-1310166943.png\" group-title=\"TURKSAT 6A\", TRT2 HD",
+    "opts": [],
+    "url": "https://tv-trt2.medya.trt.com.tr/master_1440.m3u8",
     "alive": true
   },
   {
@@ -3900,6 +3942,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Türkiyə – Ümumi\",Show TV (1080p)",
     "opts": [],
     "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
+    "alive": true
+  },
+  {
+    "name": "TRT 2 (1440p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRT2.tr\" tvg-logo=\"https://i.imgur.com/iOCQdyD.png\" group-title=\"Türkiyə – Ümumi\",TRT 2 (1440p)",
+    "opts": [],
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
