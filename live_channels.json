@@ -107,6 +107,13 @@
     "alive": true
   },
   {
+    "name": "Bir TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"BirTV.tr@SD\" tvg-logo=\"https://birtv.tv/assets/upload/637f83951df60.png\" group-title=\"Undefined\",Bir TV (720p)",
+    "opts": [],
+    "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+    "alive": true
+  },
+  {
     "name": "Bloomberg HT (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"BloombergHT.tr@SD\" tvg-logo=\"https://i.imgur.com/bmkXfIE.png\" group-title=\"Business\",Bloomberg HT (720p)",
     "opts": [],
@@ -771,13 +778,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TRTEBALise.tr@SD\" tvg-logo=\"https://i.imgur.com/vj2L2L2.png\" group-title=\"Education\",TRT EBA Lise (720p)",
     "opts": [],
     "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TRT Genc (1440p) [Geo-blocked]",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTGenc.tr@SD\" tvg-logo=\"https://i.imgur.com/fCHQYWS.png\" group-title=\"Culture;General\",TRT Genc (1440p) [Geo-blocked]",
-    "opts": [],
-    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -1716,13 +1716,6 @@
     "alive": true
   },
   {
-    "name": "TELE1",
-    "extinf": "#EXTINF:-1,TELE1",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
-    "alive": true
-  },
-  {
     "name": "BENGÜ TÜRK",
     "extinf": "#EXTINF:-1,BENGÜ TÜRK",
     "opts": [],
@@ -2350,6 +2343,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"DenaTV.ir@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png\" group-title=\"General\",Dena TV",
     "opts": [],
     "url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "Didgah TV (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DidgahTV.us@SD\" tvg-logo=\"https://i.imgur.com/3SeAyBS.png\" group-title=\"News\",Didgah TV (576p)",
+    "opts": [],
+    "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
     "alive": true
   },
   {
@@ -4384,13 +4384,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"SkyNews.ie\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png\" group-title=\"Beynəlxalq Xəbər\",Sky News (1080p)",
     "opts": [],
     "url": "https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8",
-    "alive": true
-  },
-  {
-    "name": "France 24 (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"France24.fr\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540\" group-title=\"Beynəlxalq Xəbər\",France 24 (1080p)",
-    "opts": [],
-    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
     "alive": true
   },
   {

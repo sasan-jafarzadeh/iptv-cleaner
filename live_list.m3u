@@ -30,6 +30,8 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",beIN Sports 1 Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.129.0.61:1990/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="BirTV.tr@SD" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Undefined",Bir TV (720p)
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business",Bloomberg HT (720p)
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Undefined",Bric ve Satranc TV (480p) [Not 24/7]
@@ -221,8 +223,6 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBALise.tr@SD" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",TRT EBA Lise (720p)
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTGenc.tr@SD" tvg-logo="https://i.imgur.com/fCHQYWS.png" group-title="Culture;General",TRT Genc (1440p) [Geo-blocked]
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Music",TRT Muzik (720p)
@@ -491,8 +491,6 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1,TELE1
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1,BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1,EKOL TV
@@ -673,6 +671,8 @@ https://cafefhls.wns.live/hls/stream.m3u8
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DenaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="General",Dena TV
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DidgahTV.us@SD" tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="News",Didgah TV (576p)
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="Energy.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default" group-title="Undefined",Energy
 https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious",Erfan Halgheh TV (720p)
@@ -1257,7 +1257,5 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.ie" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="Beynəlxalq Xəbər",Sky News (1080p)
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="Beynəlxalq Xəbər",France 24 (1080p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-logo="https://i.imgur.com/MNKkgfa.png" group-title="Beynəlxalq Xəbər",DW (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
