@@ -429,6 +429,13 @@
     "alive": true
   },
   {
+    "name": "KRT (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"KRT.tr@SD\" tvg-logo=\"https://i.imgur.com/9ZKqdQJ.png\" group-title=\"Culture\",KRT (1080p)",
+    "opts": [],
+    "url": "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8",
+    "alive": true
+  },
+  {
     "name": "Kurdistan TV (720p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"KurdistanTV.iq@SD\" tvg-logo=\"https://i.imgur.com/mjQptpc.png\" group-title=\"General\",Kurdistan TV (720p) [Not 24/7]",
     "opts": [],
@@ -680,6 +687,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TBMMTV.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png\" group-title=\"Undefined\",TBMM TV (720p)",
     "opts": [],
     "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+    "alive": true
+  },
+  {
+    "name": "Tele 1 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
     "alive": true
   },
   {
@@ -936,13 +950,6 @@
       "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
     ],
     "url": "http://213.91.179.28:8000/play/a0bw",
-    "alive": true
-  },
-  {
-    "name": "Tele 1 (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
     "alive": true
   },
   {
@@ -3015,6 +3022,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"QuranTV.ir@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png\" group-title=\"Religious\",Quran TV (Iran)",
     "opts": [],
     "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "RasoulallahTv (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"RasoulallahTv.ir@HD\" tvg-logo=\"https://i.imgur.com/Jh5ADee.png\" group-title=\"Religious\",RasoulallahTv (1080p)",
+    "opts": [],
+    "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
     "alive": true
   },
   {

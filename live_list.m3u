@@ -122,6 +122,8 @@ https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",Kral Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KRT.tr@SD" tvg-logo="https://i.imgur.com/9ZKqdQJ.png" group-title="Culture",KRT (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr@SD" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Religious",Lalegul TV (1080p)
@@ -195,6 +197,8 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="Undefined",TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Undefined",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="Undefined",Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="General",TGRT Belgesel (576p) [Not 24/7]
@@ -269,8 +273,6 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0bw
-#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Undefined",Tele 1 (1080p)
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="ThaqalaynTV.tr@SD" tvg-logo="https://i.imgur.com/u02FSgI.png" group-title="Religious",Thaqalayn TV
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Undefined",TRT Kurdi (720p)
@@ -863,6 +865,8 @@ https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",Quran TV (Iran)
 https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Religious",RasoulallahTv (1080p)
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RazaviTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" group-title="Undefined",Razavi TV
 https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",RJTV (1080p)
