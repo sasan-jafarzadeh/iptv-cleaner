@@ -506,24 +506,10 @@
     "alive": true
   },
   {
-    "name": "Minika Cocuk (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"MinikaCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/VCywMTv.png\" group-title=\"Kids\",Minika Cocuk (720p)",
-    "opts": [],
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
-    "alive": true
-  },
-  {
     "name": "Minika Go (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"MinikaGo.tr@SD\" tvg-logo=\"https://i.imgur.com/qIoipDq.png\" group-title=\"Kids\",Minika Go (720p)",
     "opts": [],
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
-    "alive": true
-  },
-  {
-    "name": "NOW (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"NOW.tr@SD\" tvg-logo=\"https://i.imgur.com/5EYjWK7.png\" group-title=\"Entertainment\",NOW (720p)",
-    "opts": [],
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
     "alive": true
   },
   {
@@ -690,13 +676,6 @@
     "alive": true
   },
   {
-    "name": "Tele 1 (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "alive": true
-  },
-  {
     "name": "Tempo TV (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TempoTV.tr@SD\" tvg-logo=\"https://i.imgur.com/tZpx32y.png\" group-title=\"Undefined\",Tempo TV (720p)",
     "opts": [],
@@ -799,6 +778,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TRTEBALise.tr@SD\" tvg-logo=\"https://i.imgur.com/vj2L2L2.png\" group-title=\"Education\",TRT EBA Lise (720p)",
     "opts": [],
     "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+    "alive": true
+  },
+  {
+    "name": "TRT Genc (1440p) [Geo-blocked]",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRTGenc.tr@SD\" tvg-logo=\"https://i.imgur.com/fCHQYWS.png\" group-title=\"Culture;General\",TRT Genc (1440p) [Geo-blocked]",
+    "opts": [],
+    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -944,12 +930,33 @@
     "alive": true
   },
   {
+    "name": "Minika Cocuk (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MinikaCocuk.tr@SD\" tvg-logo=\"https://i.imgur.com/VCywMTv.png\" group-title=\"Kids\",Minika Cocuk (720p)",
+    "opts": [],
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+    "alive": true
+  },
+  {
+    "name": "NOW (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"NOW.tr@SD\" tvg-logo=\"https://i.imgur.com/5EYjWK7.png\" group-title=\"Entertainment\",NOW (720p)",
+    "opts": [],
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
+    "alive": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Travel\",RTG int.",
     "extinf": "#EXTINF:-1 tvg-id=\"RTGint.ru@SD\" tvg-logo=\"https://i.imgur.com/ZpUNou4.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Travel\",RTG int.",
     "opts": [
       "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
     ],
     "url": "http://213.91.179.28:8000/play/a0bw",
+    "alive": true
+  },
+  {
+    "name": "Tele 1 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
     "alive": true
   },
   {
@@ -1734,13 +1741,6 @@
     "extinf": "#EXTINF:-1,ÜLKE TV",
     "opts": [],
     "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TELE1",
-    "extinf": "#EXTINF:-1,TELE1",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
     "alive": true
   },
   {
@@ -2868,13 +2868,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"PayvandTV.ir@SD\" tvg-logo=\"https://i.imgur.com/o2Ww77N.png\" group-title=\"Religious\",Payvand TV (Iran) (720p) [Not 24/7]",
     "opts": [],
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-    "alive": true
-  },
-  {
-    "name": "PBC Tapesh TV (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"PBCTapeshTV.us@SD\" tvg-logo=\"https://i.imgur.com/50JzsmH.png\" group-title=\"General\",PBC Tapesh TV (720p)",
-    "opts": [],
-    "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
     "alive": true
   },
   {
