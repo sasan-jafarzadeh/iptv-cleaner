@@ -247,6 +247,13 @@
     "alive": true
   },
   {
+    "name": "ETV Kayseri (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ETVKayseri.tr@SD\" tvg-logo=\"https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj\" group-title=\"General\",ETV Kayseri (720p)",
+    "opts": [],
+    "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+    "alive": true
+  },
+  {
     "name": "Euro D (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"EuroD.tr@SD\" tvg-logo=\"https://i.imgur.com/x9kHsXo.png\" group-title=\"General\",Euro D (720p)",
     "opts": [],
@@ -827,13 +834,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TRTEBALise.tr@SD\" tvg-logo=\"https://i.imgur.com/vj2L2L2.png\" group-title=\"Education\",TRT EBA Lise (720p)",
     "opts": [],
     "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TRT Genc (1440p) [Geo-blocked]",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTGenc.tr@SD\" tvg-logo=\"https://i.imgur.com/fCHQYWS.png\" group-title=\"Culture;General\",TRT Genc (1440p) [Geo-blocked]",
-    "opts": [],
-    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -1779,6 +1779,13 @@
     "alive": true
   },
   {
+    "name": "TELE1",
+    "extinf": "#EXTINF:-1,TELE1",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
+    "alive": true
+  },
+  {
     "name": "BENGÜ TÜRK",
     "extinf": "#EXTINF:-1,BENGÜ TÜRK",
     "opts": [],
@@ -2003,6 +2010,13 @@
     "alive": true
   },
   {
+    "name": "ARAS TV",
+    "extinf": "#EXTINF:-1,ARAS TV",
+    "opts": [],
+    "url": "https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8",
+    "alive": true
+  },
+  {
     "name": "BRTV",
     "extinf": "#EXTINF:-1,BRTV",
     "opts": [],
@@ -2052,6 +2066,13 @@
     "alive": true
   },
   {
+    "name": "ETV KAYSERi",
+    "extinf": "#EXTINF:-1,ETV KAYSERi",
+    "opts": [],
+    "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+    "alive": true
+  },
+  {
     "name": "GRT GAZİANTEP TV",
     "extinf": "#EXTINF:-1,GRT GAZİANTEP TV",
     "opts": [],
@@ -2063,6 +2084,13 @@
     "extinf": "#EXTINF:-1,GURBET 24 TV",
     "opts": [],
     "url": "http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "HUNAT TV",
+    "extinf": "#EXTINF:-1,HUNAT TV",
+    "opts": [],
+    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
     "alive": true
   },
   {
@@ -4134,15 +4162,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"Sportitalia.it\" tvg-logo=\"https://i.imgur.com/0CJGGgd.png\" group-title=\"İdman\",Sportitalia (1080p)",
     "opts": [],
     "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-    "alive": true
-  },
-  {
-    "name": "SuperTennis",
-    "extinf": "#EXTINF:-1 tvg-id=\"SuperTennis.it\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png\" group-title=\"İdman\",SuperTennis",
-    "opts": [
-      "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    ],
-    "url": "http://57.128.225.206/stream/7/index.m3u8",
     "alive": true
   },
   {
