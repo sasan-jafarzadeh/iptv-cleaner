@@ -77,13 +77,6 @@
     "alive": true
   },
   {
-    "name": "ATV (Turkiye) (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"ATV.tr@SD\" tvg-logo=\"https://i.imgur.com/HyVUwFC.png\" group-title=\"General\",ATV (Turkiye) (1080p)",
-    "opts": [],
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
-    "alive": true
-  },
-  {
     "name": "ATV Alanya (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"ATVAlanya.tr@SD\" tvg-logo=\"https://i.imgur.com/bUwarR0.png\" group-title=\"General\",ATV Alanya (1080p)",
     "opts": [],
@@ -102,13 +95,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"BabyFirst.us@US\" tvg-logo=\"https://i.imgur.com/WxLHBwu.png\" group-title=\"Kids\",BabyFirst (720p)",
     "opts": [],
     "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
-    "alive": true
-  },
-  {
-    "name": "beIN Sports 1 Turk (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"beINSports1Turk.tr@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457\" group-title=\"Sports\",beIN Sports 1 Turk (1080p)",
-    "opts": [],
-    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
     "alive": true
   },
   {
@@ -560,13 +546,6 @@
     "alive": true
   },
   {
-    "name": "NOW (720p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"NOW.tr@SD\" tvg-logo=\"https://i.imgur.com/5EYjWK7.png\" group-title=\"Entertainment\",NOW (720p)",
-    "opts": [],
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
-    "alive": true
-  },
-  {
     "name": "NTV (Turkiye) (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"NTV.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png\" group-title=\"General\",NTV (Turkiye) (1080p)",
     "opts": [],
@@ -744,6 +723,13 @@
     "alive": true
   },
   {
+    "name": "Tele 1 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+    "alive": true
+  },
+  {
     "name": "Tempo TV (720p)",
     "extinf": "#EXTINF:-1 tvg-id=\"TempoTV.tr@SD\" tvg-logo=\"https://i.imgur.com/tZpx32y.png\" group-title=\"Undefined\",Tempo TV (720p)",
     "opts": [],
@@ -800,13 +786,6 @@
     "alive": true
   },
   {
-    "name": "TRT 3 (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRT3.tr@SD\" tvg-logo=\"https://i.imgur.com/JrWFwBd.png\" group-title=\"Undefined\",TRT 3 (1080p)",
-    "opts": [],
-    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243",
-    "alive": true
-  },
-  {
     "name": "TRT Arabi (1080p) [Not 24/7]",
     "extinf": "#EXTINF:-1 tvg-id=\"TRTArabi.tr@SD\" tvg-logo=\"https://i.imgur.com/dEfI2M9.png\" group-title=\"News\",TRT Arabi (1080p) [Not 24/7]",
     "opts": [],
@@ -818,13 +797,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TRTAvaz.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png\" group-title=\"Undefined\",TRT Avaz (720p)",
     "opts": [],
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TRT Cocuk (1440p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTCocuk.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png\" group-title=\"Kids\",TRT Cocuk (1440p)",
-    "opts": [],
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -1005,19 +977,19 @@
     "alive": true
   },
   {
+    "name": "NOW (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"NOW.tr@SD\" tvg-logo=\"https://i.imgur.com/5EYjWK7.png\" group-title=\"Entertainment\",NOW (720p)",
+    "opts": [],
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
+    "alive": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Travel\",RTG int.",
     "extinf": "#EXTINF:-1 tvg-id=\"RTGint.ru@SD\" tvg-logo=\"https://i.imgur.com/ZpUNou4.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Travel\",RTG int.",
     "opts": [
       "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
     ],
     "url": "http://213.91.179.28:8000/play/a0bw",
-    "alive": true
-  },
-  {
-    "name": "Tele 1 (1080p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"Tele1.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png\" group-title=\"Undefined\",Tele 1 (1080p)",
-    "opts": [],
-    "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
     "alive": true
   },
   {
@@ -1228,13 +1200,6 @@
     "extinf": "#EXTINF:-1 tvg-name=\"EURO D\" tvg-id=\"EuroD.tr\" tvg-logo=\"https://i.ibb.co/jMQTJmh/euro-d.png\" group-title=\"ULUSAL\",EURO D",
     "opts": [],
     "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TRT COCUK",
-    "extinf": "#EXTINF:-1 tvg-name=\"TRT COCUK\" tvg-id=\"TRTCocuk.tr\" tvg-logo=\"https://i.ibb.co/mbvwYMB/trt-cocuk.png\" group-title=\"ULUSAL\",TRT COCUK",
-    "opts": [],
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
     "alive": true
   },
   {
@@ -1812,6 +1777,13 @@
     "alive": true
   },
   {
+    "name": "TELE1",
+    "extinf": "#EXTINF:-1,TELE1",
+    "opts": [],
+    "url": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
+    "alive": true
+  },
+  {
     "name": "BENGÜ TÜRK",
     "extinf": "#EXTINF:-1,BENGÜ TÜRK",
     "opts": [],
@@ -2222,13 +2194,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"MİNİKA GO.tr\" tvg-logo=\"https://i.pinimg.com/originals/5b/9f/c9/5b9fc921bb50cff6ac0678d7bf6df06e.jpg\" group-title=\"ULUSAL\",MINIKA GO",
     "opts": [],
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
-    "alive": true
-  },
-  {
-    "name": "TRT COCUK",
-    "extinf": "#EXTINF:-1 Yedek=\"https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8\" Yedek2=\"http://185.234.111.229:8000/play/a00b\" Yedek3=\"https://trn03.tulix.tv/gt-trtcocuk/index.m3u8\" Yedek4=\"https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4\" tvg-id=\"TRT ÇOCUK HD.tr\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png\" group-title=\"ULUSAL\",TRT COCUK",
-    "opts": [],
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8",
     "alive": true
   },
   {
@@ -3541,13 +3506,6 @@
     "alive": true
   },
   {
-    "name": "TRT Çocuk",
-    "extinf": "#EXTINF:-1 tvg-name=\"TRT Çocuk\" tvg-logo=\"https://i.imgur.com/QLFmD6d.png\" tvg-id=\"TRTCocuk.tr\" tvg-chno=\"6\" tvg-country=\"TR\" group-title=\"Turkey\",TRT Çocuk",
-    "opts": [],
-    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "alive": true
-  },
-  {
     "name": "TRT Kurdî",
     "extinf": "#EXTINF:-1 tvg-name=\"TRT Kurdî\" tvg-logo=\"https://i.imgur.com/6BpymfB.png\" tvg-id=\"TRTKurdi.tr\" tvg-chno=\"10\" tvg-country=\"TR\" group-title=\"Turkey\",TRT Kurdî",
     "opts": [],
@@ -3996,6 +3954,13 @@
     "alive": true
   },
   {
+    "name": "Az TV",
+    "extinf": "#EXTINF:-1 tvg-id=\"AzTV.az\" tvg-logo=\"https://i.imgur.com/snBMMeH.png\" group-title=\"Azərbaycan 🇦🇿\",Az TV",
+    "opts": [],
+    "url": "https://operativmm.az/tvs/az/stream9/index.m3u8",
+    "alive": true
+  },
+  {
     "name": "Xezer TV (1080p)",
     "extinf": "#EXTINF:-1 tvg-id=\"XezerTV.az\" tvg-logo=\"\" group-title=\"Azərbaycan 🇦🇿\",Xezer TV (1080p)",
     "opts": [],
@@ -4038,6 +4003,20 @@
     "alive": true
   },
   {
+    "name": "Space TV",
+    "extinf": "#EXTINF:-1 tvg-id=\"SpaceTV.az\" tvg-logo=\"https://i.imgur.com/ufvVQJH.png\" group-title=\"Azərbaycan 🇦🇿\",Space TV",
+    "opts": [],
+    "url": "https://operativmm.az/tvs/space/stream8/index.m3u8",
+    "alive": true
+  },
+  {
+    "name": "ARB 24",
+    "extinf": "#EXTINF:-1 tvg-id=\"ARB24.az\" tvg-logo=\"https://i.imgur.com/mtvIFyq.png\" group-title=\"Azərbaycan 🇦🇿\",ARB 24",
+    "opts": [],
+    "url": "https://operativmm.az/tvs/arb24/stream/index.m3u8",
+    "alive": true
+  },
+  {
     "name": "Azad TV",
     "extinf": "#EXTINF:-1 tvg-id=\"AzadTV.az\" tvg-logo=\"https://i.imgur.com/rDYSoRL.png\" group-title=\"Azərbaycan 🇦🇿\",Azad TV",
     "opts": [],
@@ -4063,13 +4042,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TRT1.tr\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png\" group-title=\"Türkiyə – Ümumi\",TRT 1 (1080p)",
     "opts": [],
     "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
-    "alive": true
-  },
-  {
-    "name": "ATV (360p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"ATV.tr\" tvg-logo=\"https://i.imgur.com/HyVUwFC.png\" group-title=\"Türkiyə – Ümumi\",ATV (360p)",
-    "opts": [],
-    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
     "alive": true
   },
   {
@@ -4112,13 +4084,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Türkiyə – Ümumi\",Show TV (1080p)",
     "opts": [],
     "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
-    "alive": true
-  },
-  {
-    "name": "TRT 2 (1440p)",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRT2.tr\" tvg-logo=\"https://i.imgur.com/iOCQdyD.png\" group-title=\"Türkiyə – Ümumi\",TRT 2 (1440p)",
-    "opts": [],
-    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
     "alive": true
   },
   {
@@ -4189,6 +4154,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"beINSPORTSXTRA.us\" tvg-logo=\"https://i.ibb.co/HT49GPmB/XTRA-2.png\" group-title=\"İdman\",beIN SPORTS XTRA (1080p)",
     "opts": [],
     "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "alive": true
+  },
+  {
+    "name": "Belarus-5 (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Belarus5.by\" tvg-logo=\"https://i.imgur.com/NJsRFud.png\" group-title=\"İdman\",Belarus-5 (1080p)",
+    "opts": [],
+    "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
     "alive": true
   },
   {
